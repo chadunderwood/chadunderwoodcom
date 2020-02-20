@@ -28,34 +28,18 @@ nav {
   font-family: ;
   font-weight: 100;
 }
-#subjects {
-  margin-left: 1.5rem;
-  margin-top: 30rem;
-}
 #about {
   margin-top: 2.5rem;
   font-size: 2rem;
 }
-#portfolio {
-  margin-top: 2.5rem;
-  font-size: 2rem;
-}
-#contact {
-  margin-top: 2.5rem;
-  font-size: 2rem;
-}
-#contact-info {
-  margin-top: 2.5rem;
-  font-size: 1.5rem;
+#socials {
+
 }
 #subject-social {
   margin-top: 2.5rem;
   font-size: 2rem;
 }
-#recommended {
-  margin-top: 2.5rem;
-  font-size: 2rem;
-}
+
 #sign-off {
 
 }
