@@ -28,18 +28,6 @@ nav {
   font-family: ;
   font-weight: 100;
 }
-#about {
-  margin-top: 2.5rem;
-  font-size: 2rem;
-}
-#social-icons {
-  align: right;
-  height: 10px;
-  width: 10px;
-}
-#sign-off {
-
-}
 .text {
   font-family: ;
   font-size: 1.5rem;
@@ -50,7 +38,7 @@ nav {
   font-weight: 800;
 }
 footer{
-  margin-top: 8rem;
+  margin-top: 20rem;
   margin-bottom: 1rem;
   font-weight: 100;
   text-align: center;
