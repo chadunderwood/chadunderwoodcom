@@ -29,6 +29,19 @@ nav {
   font-family: ;
   font-weight: 100;
 }
+.blog-post-title {
+  font-size: 1.5rem;
+  font-family: ;
+  font-weight: 100;
+}
+.blog-post-excerpt {
+  font-size: .5rem;
+  font-family: ;
+  font-weight: 100;
+}
+.blog-post-list {
+  align-items: center;
+}
 .text {
   font-family: ;
   font-size: 1.5rem;
@@ -38,9 +51,7 @@ nav {
   font-size: 2rem;
   font-weight: 800;
 }
-.blog-post-list {
-  align-items: center;
-}
+
 footer {
   margin-top: 20rem;
   margin-bottom: 1rem;
