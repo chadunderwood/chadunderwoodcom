@@ -14,6 +14,7 @@ nav {
   font-size: 1.5rem;
   font-weight: 100;
 }
+
 #name-and-title {
   margin-top: 15rem;
   text-align: center;
@@ -36,6 +37,9 @@ nav {
 .subjects {
   font-size: 2rem;
   font-weight: 800;
+}
+.blog-post-list {
+  align-items: center;
 }
 footer {
   margin-top: 20rem;
