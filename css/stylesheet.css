@@ -16,7 +16,7 @@ nav {
 }
 
 #name-and-title {
-  margin-top: 15rem;
+  margin-top: ;
   text-align: center;
 }
 #name {
@@ -25,21 +25,21 @@ nav {
   font-weight: 100;
 }
 #title {
-  font-size: 1.5rem;
+  font-size: rem;
   font-family: ;
   font-weight: 100;
 }
-.blog-post-title {
+#blog-post-title {
   font-size: 2.0rem;
   font-family: ;
   font-weight: 100;
 }
-.blog-post-excerpt {
+#blog-post-excerpt {
   font-size: 1.0rem;
   font-family: ;
   font-weight: 100;
 }
-.blog-post-list {
+#blog-post-list {
   align-items: center;
 }
 .text {

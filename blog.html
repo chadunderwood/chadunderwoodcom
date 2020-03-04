@@ -5,14 +5,17 @@ title: Blog
 
 <!-- Posts -->
   <div class="container">
-  <div id="blog-post-list" class="">
-    <ul>
-      {% for post in site.posts %}
-        <li>
-          <a href="{{ post.url }}"><h1 class="blog-post-title"> {{ post.title }} </h1></a>
-          <h3 class="blog-post-excerpt"> {{ post.excerpt }} </h3>
-        </li>
-      {% endfor %}
-    </ul>
-  </div>
+    <div class="">
+      <h1 class="title">Posts</h1>
+    </div>
+    <div id="blog-post-list" class="">
+      <ul>
+        {% for post in site.posts %}
+          <li>
+            <a href="{{ post.url }}"><h1 id="blog-post-title"> {{ post.title }} </h1></a>
+            <h3 id=blog-post-excerpt"> {{ post.excerpt }} </h3>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
   </div>
