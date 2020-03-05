@@ -1,5 +1,3 @@
-@import "../node_modules/rfs/sass"
-
 a {
   color: inherit;
   text-decoration: none;
@@ -17,7 +15,7 @@ nav {
   font-weight: 100;
 }
 .navbar-links{
-  font: +rfs(64);
+  font: 1.5rem;
 }
 
 #name-and-title {
