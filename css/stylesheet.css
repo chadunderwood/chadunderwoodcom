@@ -17,7 +17,7 @@ nav {
   font-weight: 100;
 }
 .navbar-links{
-  +rfs(64)
+  font: +rfs(64);
 }
 
 #name-and-title {
