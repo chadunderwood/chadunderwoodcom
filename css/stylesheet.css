@@ -19,27 +19,22 @@ nav {
 }
 
 #name-and-title {
-  margin-top: ;
   text-align: center;
 }
 #name {
   font-size: 5.0rem;
-  font-family: ;
   font-weight: 100;
 }
 #title {
   font-size: 1.0rem;
-  font-family: ;
   font-weight: 100;
 }
 #blog-post-title {
   font-size: 2.0rem;
-  font-family: ;
   font-weight: 100;
 }
 #blog-post-excerpt {
   font-size: 1.0rem;
-  font-family: ;
   font-weight: 100;
 }
 #blog-post-list {
@@ -47,7 +42,6 @@ nav {
   list-style: none;
 }
 .text {
-  font-family: ;
   font-size: 1.5rem;
   font-weight: 100;
 }
@@ -64,7 +58,7 @@ footer {
 }
 
 
-<! About Page Styles />
+/* About Page Styles */
 
 #about-headshot {
   width: 5vw;
