@@ -61,3 +61,10 @@ footer {
   font-weight: 100;
   text-align: center;
 }
+
+
+<! About Page Styles />
+
+#about-headshot {
+  width: 20vw;
+}
