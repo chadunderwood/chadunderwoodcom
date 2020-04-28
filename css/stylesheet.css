@@ -44,6 +44,7 @@ nav {
 }
 #blog-post-list {
   align-items: center;
+  list-style: none;
 }
 .text {
   font-family: ;

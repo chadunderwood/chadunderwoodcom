@@ -9,7 +9,7 @@ title: Blog
       <h1 class="title">Posts</h1>
     </div>
     <div id="blog-post-list" class="">
-      <ul>
+      <ul id="post-list">
         {% for post in site.posts %}
           <li>
             <a href="{{ post.url }}"><h1 id="blog-post-title"> {{ post.title }} </h1></a>
