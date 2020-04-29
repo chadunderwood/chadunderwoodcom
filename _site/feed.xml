@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-29T16:11:42-05:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Welcome Letter</title><link href="http://localhost:4000/2020/04/28/welcome-letter.html" rel="alternate" type="text/html" title="Welcome Letter" /><published>2020-04-28T00:00:00-05:00</published><updated>2020-04-28T00:00:00-05:00</updated><id>http://localhost:4000/2020/04/28/welcome-letter</id><content type="html" xml:base="http://localhost:4000/2020/04/28/welcome-letter.html">&lt;p&gt;#Welcome Letter&lt;/p&gt;
+
+&lt;p&gt;Hello,&lt;/p&gt;
+
+&lt;p&gt;I am glad you stopped at my site. I will share ideas, notes, and takeways during my technical journey and some other topics that are interesting to me. If you would like to find out more about me please make sure to check out the about me section of the site. Please make sure to check back often for updates.&lt;/p&gt;
+
+&lt;p&gt;Sincerely,
+Chad Underwood&lt;/p&gt;</content><author><name></name></author><summary type="html">#Welcome Letter</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/2014/09/12/test-post.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2014-09-12T00:00:00-05:00</published><updated>2014-09-12T00:00:00-05:00</updated><id>http://localhost:4000/2014/09/12/test-post</id><content type="html" xml:base="http://localhost:4000/2014/09/12/test-post.html">&lt;p&gt;&lt;strong&gt;Hello world&lt;/strong&gt;, this is my first Jekyll blog post.&lt;/p&gt;
+
+&lt;p&gt;I hope you like it!&lt;/p&gt;</content><author><name></name></author><summary type="html">Hello world, this is my first Jekyll blog post.</summary></entry></feed>
