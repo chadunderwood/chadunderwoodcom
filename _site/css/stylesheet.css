@@ -30,10 +30,10 @@ h1 {
   font-size: 3rem;
 }
 h2 {
-  font-size: 2rem;
+  font-size: 1.75rem;
 }
 h3 {
-  font-size: 1.75rem;
+  font-size: 1.50rem;
 }
 h4 {
   font-size: 1.25rem;
@@ -90,6 +90,9 @@ footer {
 #blog-post-excerpt {
   font-style: italic;
   color: #808080;
+}
+#blog-post-title {
+  font-size: 3rem;
 }
 #archive-post-title {
   font-size: 1.25rem;
