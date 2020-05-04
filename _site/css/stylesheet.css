@@ -97,9 +97,17 @@ footer {
 }
 
 /* About Page Styles */
+.about-container{
+  max-width: 75rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
 #about-headshot {
-  width: 20vw;
+  width: 15rem;
+  align-self: auto;
 }
 #about-short-bio {
-  
+  width: 35rem;
+  align-self: auto;
 }
