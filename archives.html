@@ -2,6 +2,11 @@
 layout: default
 title: Archives
 permalink: /archives
+sitemap:
+  lastmod: 
+  priority: 
+  changefreq: 'monthly'
+  exclude: 'no'
 ---
 
 <!-- Posts -->
@@ -14,7 +19,7 @@ permalink: /archives
         <h2>{{ yearMonth.name }}</h2>
           <ul>
             {% for post in yearMonth.items %}
-              <li id="archive-post-title"><a href="{{ post.url }}">{{ post.title }}</a></li>
+              <li id="archive-post-title">{{ post.date | date: "%d"}}&nbsp;&nbsp;<a href="{{ post.url }}">{{ post.title }}</a></li>
             {% endfor %}
           </ul>
       {% endfor %}

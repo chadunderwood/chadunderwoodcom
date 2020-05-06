@@ -1,15 +1,25 @@
-/* Whole Site Styles */
-a {
-  color: inherit;
+//* Whole Site Styles */
+a :link {
+  font-weight: 100;
+  color: #000000;
   text-decoration: none;
 }
-a:hover {
-  color: #FFFFFF;
+a :hover {
+  font-weight: 500;
+  color: #000000;
+  text-decoration: none;
+}
+a :visited {
+  color: #808080;
+}
+a :unvisited {
+  font-weight: 250;
+  color: #000000;
 }
 ul {
   list-style: none;
 }
-ul li::before {
+ul li ::before {
   content: "\200B";
 }
 body {
@@ -41,6 +51,10 @@ h4 {
 h5 {
   font-size: .9rem;
 }
+h6 {
+  font-size: .75rem;
+}
+
 /* NAV BAR Styles */
 nav {
   margin-top: .5rem;
@@ -94,12 +108,23 @@ footer {
 #blog-post-title {
   font-size: 3rem;
 }
+#blog-post-date {
+  font-style: bold;
+  font-weight: 500;
+  color: #000000;
+}
 #archive-post-title {
   font-size: 1.25rem;
   font-weight: 100;
 }
 #newsletter {
+  padding-top: 2rem;
   align-self: center;
+}
+#til-post-date {
+  font-size: 1.25rem;
+  font-weight: 500;
+  color: #000000;
 }
 
 /* About Page Styles */

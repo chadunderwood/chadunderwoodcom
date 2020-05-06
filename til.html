@@ -2,6 +2,11 @@
 layout: default
 title: TIL
 permalink: /til
+sitemap:
+  lastmod: 
+  priority: 
+  changefreq: 'monthly'
+  exclude: 'no'
 ---
 
 <!-- Posts -->
@@ -10,7 +15,7 @@ permalink: /til
     <h1>Today I Learned</h1>
     <br>
     {% for post in site.categories.til %}
-      <h4>
+      <h4 id="til-post-date">
         {% if thedate != post.date | date: "%m-%d-%Y" %}
         {{ post.date | date: "%b. %e, %Y" }}
         {% endif %}

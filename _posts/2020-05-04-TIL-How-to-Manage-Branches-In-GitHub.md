@@ -1,0 +1,15 @@
+---
+layout: post
+title:  How to Manage Branches In GitHub
+categories: til
+tags: github, branches
+excerpt_separator: <!--more-->
+sitemap:
+  lastmod: 
+  priority: 
+  changefreq: 'monthly'
+  exclude: 'no'
+---
+I finally got to a point where I need to manage 2 sets of code<!--more--> for my personal website page. I created my Dev environment today so I can work on new features without taking a chance on destroying my currently working code. In theory, I understood why you run 2 code sets but now that I’ve seen the branches in action it makes more sense. 
+
+All I had to do was create a second branch. This brought over my production code. From there all I needed to do was write new code and test it worked. Once I verified it was working, then I had to pull it into production. Easy, peasy!
