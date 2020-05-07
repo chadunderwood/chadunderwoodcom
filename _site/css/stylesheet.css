@@ -128,7 +128,7 @@ footer {
 }
 
 /* About Page Styles */
-.about-container{
+.about-container {
   max-width: 75rem;
   display: flex;
   flex-wrap: wrap;
