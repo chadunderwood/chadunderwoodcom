@@ -30,8 +30,8 @@ content {
 }
 .container {
   display: flex;
-
-  
+  flex-direction: column;
+  justify-content: center;
 }
 h1, h2, h3, h4, h5, h6 {
   font-weight: 100;
@@ -68,23 +68,20 @@ nav {
 
 /* /Home Styles */
 #name-and-title {
-  max-width: 75rem;
-  flex-direction: column;
-  justify-content: center;
+  text-align: center;
 }
 #name {
   align-self: center;
-  font-size: 4.0rem;
+  font-size: 5.0rem;
   font-weight: 100;
 }
 #title {
   align-self: center;
-  font-size: 1rem;
-  font-weight: 300;
+  font-size: 1.5rem;
+  font-weight: 100;
 }
 #home-logo {
-  align-self: center;
-  width: 35rem;
+  width: 20rem;
 }
 .text {
   font-size: 1.5rem;
@@ -97,19 +94,13 @@ nav {
 
 /* Footer Styles */
 footer {
-  margin-top: 5rem;
+  margin-top: 20rem;
   margin-bottom: 1rem;
   font-weight: 100;
   text-align: center;
 }
 
 /* /Blog - TIL - Archives Styles */
-#blog-container {
-  align-self: center;
-}
-#blog-post-container {
-  flex-direction: column;
-}
 #blog-post-excerpt {
   font-style: italic;
   color: #808080;
@@ -137,20 +128,17 @@ footer {
 }
 
 /* About Page Styles */
-#about-content {
-  align-self: auto;
-  flex-flow: row wrap;
+.about-container{
+  max-width: 75rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
 }
 #about-headshot {
-  width: 20rem;
+  width: 15rem;
+  align-self: auto;
 }
-
-
-/* Playlists Page Styles */
-#playlists-container {
-  justify-content: space-between;
-}
-#playlists {
-  align-self: center;
-
+#about-short-bio {
+  width: 35rem;
+  align-self: auto;
 }
