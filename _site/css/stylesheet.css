@@ -30,8 +30,6 @@ content {
 }
 .container {
   display: flex;
-  flex-direction: column;
-  justify-content: center;
 }
 h1, h2, h3, h4, h5, h6 {
   font-weight: 100;
@@ -69,6 +67,8 @@ nav {
 /* /Home Styles */
 #name-and-title {
   text-align: center;
+  flex-direction: column;
+  justify-content: center;
 }
 #name {
   align-self: center;
@@ -94,13 +94,17 @@ nav {
 
 /* Footer Styles */
 footer {
-  margin-top: 20rem;
+  margin-top: 2rem;
   margin-bottom: 1rem;
   font-weight: 100;
   text-align: center;
 }
-
 /* /Blog - TIL - Archives Styles */
+#blog-container {
+  max-width: 75rem;
+  flex-direction: column;
+  justify-content: center;
+}
 #blog-post-excerpt {
   font-style: italic;
   color: #808080;
@@ -128,17 +132,44 @@ footer {
 }
 
 /* About Page Styles */
-.about-container {
+#about-container {
+  flex-direction: row;
+}
+#about-headshot-and-story {
   max-width: 75rem;
-  display: flex;
-  flex-wrap: wrap;
+  align-self: auto;
   justify-content: space-around;
 }
 #about-headshot {
-  width: 15rem;
-  align-self: auto;
+  max-width: 20rem;
+  flex-grow: 1;
 }
-#about-short-bio {
-  width: 35rem;
-  align-self: auto;
+#about-story {
+  flex-grow: 2;
+}
+
+/* Social launcher Page */
+#social-launcher-container {
+flex-direction: column;
+max-width: fit-content;
+max-height: fit-content;
+}
+.social-launcher {
+border-radius: 15px;
+box-shadow: .1px .1px 7px #808080;
+margin: .65rem;
+font-weight: 100;
+min-width: fit-content;
+height: 5.25rem;
+}
+.launcher-heading {
+font-size: 1.75rem;
+text-transform: uppercase;
+text-align: center;
+padding-top: .5rem;
+}
+.launcher-summary {
+text-align: center;
+font-size: .75rem;
+font-style: italic;
 }
