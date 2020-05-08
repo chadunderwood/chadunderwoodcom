@@ -1,0 +1,30 @@
+I"�<p>d—
+layout: post
+title:  How To Create Rounded Corner Divs
+categories: til
+tags: divs, css
+excerpt_separator: <!--more-->
+sitemap:
+  lastmod: 
+  priority: 
+  changefreq: ‘monthly’
+  exclude: ‘no’
+—
+I created a launcher to link to certain things from my social media. This will allow me included links to multiple things from the bios in my social media. I started with squared corner divs and decided I wanted something that looked a little more like a button. This where I found the border radius property in CSS. This allow you to set the amount the corners will be rounded. I am sure this is something I will need to use in the future a lot.</p>
+
+<h4 id="example-code">EXAMPLE CODE</h4>
+<p>&lt;div class=”example-code&gt;
+ 	<code>
+    <style>
+    .example {  
+    width: 100px; 
+    height: 40px;
+    background-color: black;
+    border-radius: 15px; 
+    }
+    </style>
+    &lt;div id="example"&gt;
+    &lt;/div&gt;</code></p>
+
+<p>&lt;/div&gt;</p>
+:ET
