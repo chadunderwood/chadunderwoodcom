@@ -12,7 +12,7 @@ sitemap:
 ---
 
 ### The King of Social Media
-For years, I have sang the praises of Twitter. In my opinion, Twitter is the most powerful social network of all the land. It lends the best layout for conversation and networking with people you don't know. The others are greared toward friends or people you know.<!--more--> They all have great features but for my money, Twitter is champion. 
+For years, I have sang the praises of Twitter. In my opinion, Twitter is the most powerful social network of all the land. It lends the best layout for conversation and networking with people you don't know. The others are greared toward friends or people you know. <!--more--> They all have great features but for my money, Twitter is champion. 
 
 ### One Downside
 As the site has grown, so have the issues. For one, the users of Twitter became very political. Politics are fine and in my opinion everyone should be able to share their thoughts any where they want. However, that doesn't mean I actually want to hear them. There was a point all you would see and hear were people's political opinions. It was so much for me in fact, I had to take a break from Twitter. I have seen others that have done the same. Twitter's openness can also lead to burn out from an end user perspective. 
