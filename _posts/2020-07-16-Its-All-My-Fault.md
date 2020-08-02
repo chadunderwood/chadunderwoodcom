@@ -10,12 +10,12 @@ sitemap:
   changefreq: 'monthly'
   exclude: 'yes'
 ---
-### The art of accountability
+**### The art of accountability**
 I had a manager that I would constantly butt heads with. He was military minded. I never seemed to have the right answer for him. I would explain to him endlessly. 
 
 Truth be told, no one cared for him. All for the same reasons. Everyone said "He just doesn't care to listen." <!--more-->
 
-### The Top Performer
+**### The Top Performer**
 At the time I was the top performer on our team and top 5% in our department. This is where you wanted to be in the rankings. He brought me into a meeting to let me know that I had a laundry list of things to improve on. 
 
 After he was done, I was so angry with him that I really didn't want to talk to him.  I ended up saying, "Yes sir, I'll fix it." The tension in the room instantly dropped on his side. I could tell I had made a stride on dealing with his unwillingness to listen.
