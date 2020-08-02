@@ -10,7 +10,8 @@ sitemap:
   changefreq: 'monthly'
   exclude: 'no'
 ---
-### Search Engines
+### I changed my default search engine for learning.
+
 Over my years in tech, I’ve always said "Search engines are your best friend for learning new things." This has always held true but I’ve started hanging with a new pal. <!--more--> In the past six months, I have found myself turning to YouTube for answers. In the past, the search engine was king for everything. However, I have had to quit being old school and move to today. I always knew YouTube was there but I was a habitual search engine user so that is where I would always turn first.
 
 ### Bring on YouTube
