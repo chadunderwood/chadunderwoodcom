@@ -26,9 +26,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chadunderwood.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 #Social Accounts -- Input you social account user names here and this will fill them in where applicable.
-twitter_username: chadundrwood
+twitter_username: chadaunderwood
 github_username:  chadunderwood
-instagram_username:  chadundrwood
+instagram_username:  chadaunderwood
 linkedin_username:  underwoodchad
 #facebook_username:  username
 #codepen_username:  username
