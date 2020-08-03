@@ -10,7 +10,7 @@ sitemap:
   changefreq: 'monthly'
   exclude: 'yes'
 ---
-### **The art of accountability**
+### The art of accountability
 I had a manager that I would constantly butt heads with. He was military minded. I never seemed to have the right answer for him. I would explain to him endlessly. 
 
 Truth be told, no one cared for him. All for the same reasons. Everyone said "He just doesn't care to listen." <!--more-->
