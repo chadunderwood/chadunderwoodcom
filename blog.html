@@ -17,8 +17,8 @@ sitemap:
       {% for post in site.categories.blog %}
           <ul class="post-list">
           <h3 id="blog-post-title"><li><a href="{{ post.url }}">{{ post.title }}</a></li></h3>
-            <h5 id="blog-post-excerpt"> {{ post.excerpt }} </h5>
-            <h6 id="blog-post-date"> {{ post.date | date: "%A %B %d %Y" }}</h6>
+            <h5 id="blog-post-excerpt"> {{ post.excerpt | remove: '![' }} </h5>
+            <h6 id="blog-post-date"> {{ post.date | date: "%A %B %d %Y" }} </h6>
             <hr>
           </ul>
       {% endfor %}

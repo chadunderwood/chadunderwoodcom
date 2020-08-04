@@ -41,7 +41,7 @@ h2 {
   font-size: 1.75rem;
 }
 h3 {
-  font-size: 1.50rem;
+  font-size: 1.35rem;
 }
 h4 {
   font-size: 1.25rem;
@@ -110,7 +110,7 @@ footer {
   color: #808080;
 }
 #blog-post-title {
-  font-size: 3rem;
+  font-size: 2rem;
 }
 #blog-post-date {
   font-style: bold;
@@ -171,4 +171,11 @@ padding-top: .5rem;
 text-align: center;
 font-size: .75rem;
 font-style: italic;
+}
+img {
+  max-width: 75%;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+  margin-left: 10%;
+  height: auto;
 }

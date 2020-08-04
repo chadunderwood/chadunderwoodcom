@@ -3,6 +3,36 @@
   
     
     <url>
+      <loc>http://localhost:4000/blog/Its-All-My-Fault/</loc>
+      
+        <lastmod>2020-07-16T00:00:00-05:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/blog/The-Best-feature-of-Twitter-You're-Not-Using/</loc>
+      
+        <lastmod>2020-05-18T00:00:00-05:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>http://localhost:4000/blog/The-Best-Friend-That-Was-There-The-Whole-Time/</loc>
       
         <lastmod>2020-05-11T00:00:00-05:00</lastmod>
@@ -94,9 +124,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/60tytrax</loc>
+      <loc>http://localhost:4000/6tytrax</loc>
       
-        <lastmod>2020-05-11T13:06:11-05:00</lastmod>
+        <lastmod>2020-08-04T14:14:38-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -111,7 +141,7 @@
     <url>
       <loc>http://localhost:4000/about</loc>
       
-        <lastmod>2020-05-11T13:06:11-05:00</lastmod>
+        <lastmod>2020-08-04T14:14:38-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -126,7 +156,7 @@
     <url>
       <loc>http://localhost:4000/archives</loc>
       
-        <lastmod>2020-05-11T13:06:11-05:00</lastmod>
+        <lastmod>2020-08-04T14:14:38-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -141,7 +171,7 @@
     <url>
       <loc>http://localhost:4000/blog</loc>
       
-        <lastmod>2020-05-11T13:06:11-05:00</lastmod>
+        <lastmod>2020-08-04T14:14:38-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -156,7 +186,7 @@
     <url>
       <loc>http://localhost:4000/contact/</loc>
       
-        <lastmod>2020-05-11T13:06:11-05:00</lastmod>
+        <lastmod>2020-08-04T14:14:38-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -171,7 +201,7 @@
     <url>
       <loc>http://localhost:4000/</loc>
       
-        <lastmod>2020-05-11T13:06:11-05:00</lastmod>
+        <lastmod>2020-08-04T14:14:38-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -184,9 +214,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/launcher</loc>
+      <loc>http://localhost:4000/links</loc>
       
-        <lastmod>2020-05-11T13:06:11-05:00</lastmod>
+        <lastmod>2020-08-04T14:14:38-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -201,7 +231,7 @@
     <url>
       <loc>http://localhost:4000/playlists</loc>
       
-        <lastmod>2020-05-11T13:06:11-05:00</lastmod>
+        <lastmod>2020-08-04T14:14:38-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -220,7 +250,7 @@
     <url>
       <loc>http://localhost:4000/sitemap.xml</loc>
       
-        <lastmod>2020-05-11T13:06:11-05:00</lastmod>
+        <lastmod>2020-08-04T14:14:38-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -235,7 +265,7 @@
     <url>
       <loc>http://localhost:4000/til</loc>
       
-        <lastmod>2020-05-11T13:06:11-05:00</lastmod>
+        <lastmod>2020-08-04T14:14:38-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -250,7 +280,7 @@
     <url>
       <loc>http://localhost:4000/feed.xml</loc>
       
-        <lastmod>2020-05-11T13:06:11-05:00</lastmod>
+        <lastmod>2020-08-04T14:14:38-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
