@@ -36,19 +36,19 @@ Later in life, I figured out this was called taking accountability. Taking accou
 The result is being able to control your emotions. Emotions come from things, we feel, we can't control. If you can stop the trigger of the emotions, you can move on quicker. Accountability is a sure fire way to control most of the emotions you feel.  
 
 
->### **What does accountability look like?**  
->> **The problem:**  My kid made bad grades.
->>      
->>      **The excuse:** They should've worked harder to get a better grade.
->>      
->>      **Accountability:** I should've spent more time making sure they received the help they needed.
->>      
->       #### **Here's another example.**  
->>      **The problem:** My spouse doesn't clean the house the way I like it.
->>      
->>      **The excuse:** My spouse is just lazy and half way does everything.
->>      
->>      **Accountability:** I could've gotten up and helped to clean up the mess. 
+### **What does accountability look like?**  
+**The problem:**  My kid made bad grades.
+      
+**The excuse:** They should've worked harder to get a better grade.
+      
+**Accountability:** I should've spent more time making sure they received the help they needed.
+      
+#### **Here's another example.**  
+**The problem:** My spouse doesn't clean the house the way I like it.
+      
+**The excuse:** My spouse is just lazy and half way does everything.
+      
+**Accountability:** I could've gotten up and helped to clean up the mess. 
 
 
 ### **Be part of the problem.**  
