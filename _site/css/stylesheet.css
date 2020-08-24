@@ -1,4 +1,4 @@
-//* Whole Site Styles */
+/* Whole Site Styles */
 a :link {
   font-weight: 100;
   color: #000000;
@@ -25,13 +25,24 @@ ul li ::before {
 body {
   background: #FFFFFF;
 }
-content {
-  font-weight: 100;
-}
 .container {
   display: flex;
 }
-h1, h2, h3, h4, h5, h6 {
+.page-title {
+  padding-top: 2rem;
+  padding-left: 5rem;
+  padding-bottom: 1rem;
+}
+.image-wrapper {
+  text-align: center;
+  .image-caption {
+      color: $grey-color;
+      margin-top: $spacing-unit / 3;
+  }
+}
+
+
+h1, h2, h3, h4, h5, h6, content {
   font-weight: 100;
 }
 h1 {
@@ -52,11 +63,17 @@ h5 {
 h6 {
   font-size: .75rem;
 }
+content {
+  font-weight: 100;
+  font-size: 1.5rem;
+}
+img {
+
+}
 
 /* NAV BAR Styles */
 nav {
-  margin-top: .5rem;
-  margin-left: 1.5rem;
+  margin-top: .25rem;
   font-size: 1.5rem;
   font-weight: 100;
 }
@@ -81,6 +98,7 @@ nav {
   font-weight: 100;
 }
 #home-logo {
+  justify-content: center;
   width: 20rem;
 }
 .text {
@@ -91,7 +109,6 @@ nav {
   font-size: 1rem;
   font-weight: 100;
 }
-
 /* Footer Styles */
 footer {
   margin-top: 2rem;
@@ -132,50 +149,64 @@ footer {
 
 /* About Page Styles */
 #about-container {
-  flex-direction: row;
-}
-#about-headshot-and-story {
-  max-width: 75rem;
-  align-self: auto;
-  justify-content: space-around;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  max-width: 95rem;
 }
 #about-headshot {
-  max-width: 20rem;
-  flex-grow: 1;
+  max-width: 25rem;
 }
-#about-story {
-  flex-grow: 2;
+#about-content {
+  max-width: 60rem;
 }
 
 /* Social launcher Page */
+
 #social-launcher-container {
 flex-direction: column;
-max-width: fit-content;
-max-height: fit-content;
+justify-content: center;
+max-width: 50rem;
+}
+#links-headshot-container {
+  align-self: center;
+  max-width: 50rem;
+}
+#links-headshot {
+max-width: 20rem;
 }
 .social-launcher {
 border-radius: 15px;
 box-shadow: .1px .1px 7px #808080;
 margin: .65rem;
 font-weight: 100;
-min-width: fit-content;
-height: 5.25rem;
+min-width: 20rem;
+height: 2.5rem;
 }
 .launcher-heading {
-font-size: 1.75rem;
+align-content: center;
+font-size: 2rem;
 text-transform: uppercase;
 text-align: center;
-padding-top: .5rem;
 }
-.launcher-summary {
-text-align: center;
-font-size: .75rem;
-font-style: italic;
-}
-img {
-  max-width: 75%;
-  margin-top: 3rem;
 
-  margin-left: 10%;
-  height: auto;
+/* Tweet Scheduling */
+#tweet-scheduling-container {
+  flex-flow: row wrap;
+  justify-content: space-between;
+  max-width: 95rem;
+  padding-bottom: 10rem;
 }
+  }
+#hypefury-container {
+  align-self: auto;
+  justify-content: space-around;
+}
+#hypefury-logo {
+  max-width: 25rem;
+ }
+ #hypefury-content {
+  max-width: 60rem;
+ }
+ #hypefury-button {
+   align-content: center;
+ }
