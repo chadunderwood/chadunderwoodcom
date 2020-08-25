@@ -246,7 +246,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-commonmark-ghpages
   jekyll-feed (~> 0.12)
   tzinfo (~> 1.2)
   tzinfo-data
