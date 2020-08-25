@@ -18,7 +18,7 @@ Truth be told, no one cared for him. All for the same reasons. Everyone said "He
 {% include image.html
   img="/assets/postimg/allmyfault.jpeg"
   title="All My Fault"
-  caption="Photo by <a href="https://www.pexels.com/@olly?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels">Andrea Piacquadio</a> from <a href= "https://www.pexels.com/photo/man-with-hand-on-temple-looking-at-laptop-842554/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels">Pexels</a> %}
+  caption="Photo by Andrea Piacquadio from Pexels" %}
 
 ### **The Top Performer**  
 At the time I was the top performer on our team and top 5% in our department. This is where you wanted to be in the rankings. He brought me into a meeting to let me know that I had a laundry list of things to improve on. 
