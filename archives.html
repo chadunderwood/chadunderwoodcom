@@ -12,12 +12,10 @@ sitemap:
 <!-- Posts -->
   <div class="container">
     <div class="">
-      <h2>Archives</h2>
-      <br>
       {% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%Y %b'"  %}
       {% for yearMonth in postsByYearMonth %}
         <h2>{{ yearMonth.name }}</h2>
-          <ul>
+          <ul id="post-list" class="">
             {% for post in yearMonth.items %}
               <li id="archive-post-title">{{ post.date | date: "%d"}}&nbsp;&nbsp;<a href="{{ post.url }}">{{ post.title }}</a></li>
             {% endfor %}

@@ -2,7 +2,7 @@
 layout: post
 title:  "My Worst Enemy is Me"
 categories: blog
-tags: blog
+tags: change, procrastination, confidence
 excerpt_separator: <!--more-->
 sitemap:
   lastmod: 

@@ -17,7 +17,7 @@ a :unvisited {
   color: #000000;
 }
 ul {
-  list-style: none;
+ 
 }
 ul li ::before {
   content: "\200B";
@@ -33,9 +33,6 @@ body {
   padding-left: 5rem;
   padding-bottom: 1rem;
 }
-#blog-image {
-  max-width: 70rem;
-}
 .image-wrapper {
   text-align: center;
   .image-caption {
@@ -43,8 +40,6 @@ body {
       margin-top: $spacing-unit / 3;
   }
 }
-
-
 h1, h2, h3, h4, h5, h6, content {
   font-weight: 100;
 }
@@ -69,9 +64,6 @@ h6 {
 content {
   font-weight: 100;
   font-size: 1.5rem;
-}
-img {
-
 }
 
 /* NAV BAR Styles */
@@ -123,7 +115,17 @@ footer {
 #blog-container {
   max-width: 75rem;
   flex-direction: column;
-  justify-content: center;
+}
+#post-list {
+  list-style: none;
+}
+#blog-list {
+  flex-direction: row;
+  justify-content: flex-start;
+  max-width: 50rem;
+}
+#blog-image {
+  max-height: 30rem;
 }
 #blog-post-excerpt {
   font-style: italic;
@@ -164,34 +166,38 @@ footer {
 }
 
 /* Social launcher Page */
-
 #social-launcher-container {
-flex-direction: column;
-justify-content: center;
-max-width: 50rem;
+  flex-direction: column;
+  align-content: center;
+  max-width: 50rem;
 }
 #links-headshot-container {
   align-self: center;
   max-width: 50rem;
 }
 #links-headshot {
-max-width: 20rem;
+  max-width: 20rem;
 }
 .social-launcher {
-border-radius: 15px;
-box-shadow: .1px .1px 7px #808080;
-margin: .65rem;
-font-weight: 100;
-min-width: 20rem;
-height: 2.5rem;
+  align-self: center;
+  border-radius: 15px;
+  box-shadow: .1px .1px 7px #808080;
+  margin: .65rem;
+  font-weight: 100;
+  min-width: 25rem;
+  max-width: 25rem;
+  height: 2.5rem;
 }
 .launcher-heading {
-align-content: center;
-font-size: 2rem;
-text-transform: uppercase;
-text-align: center;
+  align-content: center;
+  font-size: 2rem;
+  text-transform: uppercase;
+  text-align: center;
 }
 
+#links-warning {
+  align-self: center;
+}
 /* Tweet Scheduling */
 #tweet-scheduling-container {
   flex-flow: row wrap;
@@ -210,6 +216,21 @@ text-align: center;
  #hypefury-content {
   max-width: 60rem;
  }
- #hypefury-button {
-   align-content: center;
+ /* Domain Names */
+#domain-name-container {
+  flex-flow: row wrap;
+  justify-content: space-between;
+  max-width: 95rem;
+  padding-bottom: 10rem;
+}
+  }
+#hover-container {
+  align-self: auto;
+  justify-content: space-around;
+}
+#hover-logo {
+  max-width: 25rem;
+ }
+ #hover-content {
+  max-width: 60rem;
  }
