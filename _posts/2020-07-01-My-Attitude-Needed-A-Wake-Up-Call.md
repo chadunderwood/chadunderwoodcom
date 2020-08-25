@@ -20,9 +20,11 @@ Running out the door, I pour the coffee into a travel cup and grab my wallet and
 
 Sound familiar? <!--more-->
 
-| ![My Worst Enemy](/assets/postimg/MyAttitudeNeededAWakeUpCall.jpeg) |
-| :--: |
-| Photo by [Andrew Neel](https://www.pexels.com/@andrew?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/photo/man-wearing-black-crew-neck-shirt-and-black-jeans-3201765/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) |
+{% include image.html
+  img="/assets/postimg/MyAttitudeNeededAWakeUpCall.jpeg"
+  title="My Worst Enemy"
+  caption="Photo by Andrew Neel from Pexels" %}
+
 
 I hit the floor running with only seconds between being on time and being late. Starting everyday on a negative note.
 

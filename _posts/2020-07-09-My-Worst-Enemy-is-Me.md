@@ -15,11 +15,10 @@ Most of my life, I spent my quiet time coming up with ideas. Matter of fact, I h
 
 Truth be told, I hold myself back from speaking. I do this because I don't want to say something stupid. I lack confidence in social situations.<!--more-->
 
-| ![My Worst Enemy](/assets/postimg/myworstenemyisme.jpeg) |
-| :--: |
-| Photo by [Andrea Piacquadio](https://www.pexels.com/@olly?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/photo/man-with-hand-on-temple-looking-at-laptop-842554/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) |  
-
-
+{% include image.html
+  img="/assets/postimg/myworstenemyisme.jpeg"
+  title="My Worst Enemy"
+  caption="Photo by Andrea Piacquadio from Pexels" %}
 
 ### The Great Procrastinator
 

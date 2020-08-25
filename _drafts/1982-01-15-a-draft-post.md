@@ -11,3 +11,8 @@ sitemap:
   exclude: 'yes'
 ---
 Hello World! Content goes here. 
+
+{% include image.html
+  img="/assets/postimg/MyAttitudeNeededAWakeUpCall.jpeg"
+  title=""
+  caption="" %}

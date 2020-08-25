@@ -33,6 +33,9 @@ body {
   padding-left: 5rem;
   padding-bottom: 1rem;
 }
+#blog-image {
+  max-width: 70rem;
+}
 .image-wrapper {
   text-align: center;
   .image-caption {
