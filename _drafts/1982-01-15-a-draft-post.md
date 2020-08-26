@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  ""
-categories: [, ]
-tags: blog
+categories: [blog, ]
+tags: 
 excerpt_separator: <!--more-->
 sitemap:
   lastmod: 
@@ -11,3 +11,8 @@ sitemap:
   exclude: 'yes'
 ---
 Hello World! Content goes here. 
+
+{% include image.html
+  img="/assets/postimg/MyAttitudeNeededAWakeUpCall.jpeg"
+  title=""
+  caption="" %}

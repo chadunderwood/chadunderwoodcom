@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TIL
+title: Today I Learned
 permalink: /til
 sitemap:
   lastmod: 
@@ -12,8 +12,6 @@ sitemap:
 <!-- Posts -->
 <div class="container">
   <div class="">
-    <h1>Today I Learned</h1>
-    <br>
     {% for post in site.categories.til %}
       <h4 id="til-post-date">
         {% if thedate != post.date | date: "%m-%d-%Y" %}
@@ -21,13 +19,12 @@ sitemap:
         {% endif %}
         {% assign thedate = post.date | date: "%m-%d-%Y" %}
       </h4>
-        <ul class="post-list">
+        <ul id="post-list" class="">
           <h3>
             <li>
               <a href="{{ post.url }}">{{ post.title }}</a>
             </li>
           </h3>
-
         </ul>
         <hr>
     {% endfor %}

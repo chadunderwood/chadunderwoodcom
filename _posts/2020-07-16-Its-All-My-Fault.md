@@ -15,10 +15,10 @@ sitemap:
 I had a manager that I would constantly butt heads with. He was military minded. I never seemed to have the right answer for him. I would explain to him endlessly. 
 Truth be told, no one cared for him. All for the same reasons. Everyone said "He just doesn't care to listen." <!--more-->
 
-| ![All My Fault](/assets/postimg/allmyfault.jpeg) |
-| :--: |
-| Photo by [Andrea Piacquadio](https://www.pexels.com/@olly?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/photo/man-with-hand-on-temple-looking-at-laptop-842554/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) |
-  
+{% include image.html
+  img="/assets/postimg/allmyfault.jpeg"
+  title="All My Fault"
+  caption="Photo by Andrea Piacquadio from Pexels" %}
 
 ### **The Top Performer**  
 At the time I was the top performer on our team and top 5% in our department. This is where you wanted to be in the rankings. He brought me into a meeting to let me know that I had a laundry list of things to improve on. 
@@ -36,19 +36,19 @@ Later in life, I figured out this was called taking accountability. Taking accou
 The result is being able to control your emotions. Emotions come from things, we feel, we can't control. If you can stop the trigger of the emotions, you can move on quicker. Accountability is a sure fire way to control most of the emotions you feel.  
 
 
->### **What does accountability look like?**  
->> **The problem:**  My kid made bad grades.
->>      
->>      **The excuse:** They should've worked harder to get a better grade.
->>      
->>      **Accountability:** I should've spent more time making sure they received the help they needed.
->>      
->       #### **Here's another example.**  
->>      **The problem:** My spouse doesn't clean the house the way I like it.
->>      
->>      **The excuse:** My spouse is just lazy and half way does everything.
->>      
->>      **Accountability:** I could've gotten up and helped to clean up the mess. 
+### **What does accountability look like?**  
+**The problem:**  My kid made bad grades.
+      
+**The excuse:** They should've worked harder to get a better grade.
+      
+**Accountability:** I should've spent more time making sure they received the help they needed.
+      
+#### **Here's another example.**  
+**The problem:** My spouse doesn't clean the house the way I like it.
+      
+**The excuse:** My spouse is just lazy and half way does everything.
+      
+**Accountability:** I could've gotten up and helped to clean up the mess. 
 
 
 ### **Be part of the problem.**  
