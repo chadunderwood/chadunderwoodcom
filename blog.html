@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blog
+title: Articles
 permalink: /blog
 sitemap:
   lastmod: 
@@ -10,13 +10,15 @@ sitemap:
 ---
 
 <!-- Posts -->
-  <div id="" class="container">
-    <div id="blog-list">
+  <div class="container">
+    <div class="">
+      <h1>Blog</h1>
+      <br>
       {% for post in site.categories.blog %}
-          <ul id="post-list" class="">
+          <ul class="post-list">
           <h3 id="blog-post-title"><li><a href="{{ post.url }}">{{ post.title }}</a></li></h3>
-            <h5 id="blog-post-excerpt"> {{ post.excerpt | remove: '![' }} </h5>
-            <h6 id="blog-post-date"> {{ post.date | date: "%A %B %d %Y" }} </h6>
+            <h5 id="blog-post-excerpt"> {{ post.excerpt }} </h5>
+            <h6 id="blog-post-date"> {{ post.date | date: "%A %B %d %Y" }}</h6>
             <hr>
           </ul>
       {% endfor %}
