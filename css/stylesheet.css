@@ -24,6 +24,10 @@ ul li ::before {
 }
 body {
   background: #FFFFFF;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.1rem;
+  font-weight: 300;
+
 }
 content {
   font-weight: 100;
@@ -33,34 +37,74 @@ content {
   flex-direction: column;
   justify-content: center;
 }
+<<<<<<< Updated upstream
 h1, h2, h3, h4, h5, h6 {
   font-weight: 100;
+=======
+.page-title {
+  padding-top: 2rem;
+  padding-left: 5rem;
+  padding-bottom: 1rem;
+}
+.image-wrapper {
+  text-align: center;
+  .image-caption {
+      color: $grey-color;
+      margin-top: $spacing-unit / 3;
+  }
+}
+h1, h2, h3, h4, h5, h6, content {
+
+
+>>>>>>> Stashed changes
 }
 h1 {
-  font-size: 3rem;
+  font-size: 4rem;
+  font-family: 'Baloo 2', cursive;
+  font-weight: 800;
 }
 h2 {
-  font-size: 1.75rem;
+  font-size: 2.5rem;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
 }
 h3 {
+<<<<<<< Updated upstream
   font-size: 1.50rem;
+=======
+  font-size: 1.5rem;
+  font-family: 'Open Sans', sans-serif;
+>>>>>>> Stashed changes
 }
 h4 {
   font-size: 1.25rem;
+  font-family: 'Open Sans', sans-serif;
 }
 h5 {
   font-size: .9rem;
+  font-family: 'Open Sans', sans-serif;
 }
 h6 {
   font-size: .75rem;
+  font-family: 'Open Sans', sans-serif;
 }
+<<<<<<< Updated upstream
+=======
+content {
+  font-family: 'Gothic A1', sans-serif;
+  font-size: 1.25rem;
+}
+>>>>>>> Stashed changes
 
 /* NAV BAR Styles */
 nav {
   margin-top: .5rem;
+<<<<<<< Updated upstream
   margin-left: 1.5rem;
+=======
+>>>>>>> Stashed changes
   font-size: 1.5rem;
-  font-weight: 100;
+
 }
 .navbar-links{
   font: 1.5rem;
@@ -72,8 +116,7 @@ nav {
 }
 #name {
   align-self: center;
-  font-size: 5.0rem;
-  font-weight: 100;
+  font-size: 4.5rem;
 }
 #title {
   align-self: center;
@@ -102,11 +145,17 @@ footer {
 
 /* /Blog - TIL - Archives Styles */
 #blog-post-excerpt {
+
   font-style: italic;
   color: #808080;
 }
 #blog-post-title {
+<<<<<<< Updated upstream
   font-size: 3rem;
+=======
+
+  font-size: 2rem;
+>>>>>>> Stashed changes
 }
 #blog-post-date {
   font-style: bold;
