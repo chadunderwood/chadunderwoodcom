@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The Best Friend, That Was There The Whole Time 
-categories: blog
+categories: article
 tags: social media, YouTube
 excerpt_separator: <!--more-->
 sitemap:

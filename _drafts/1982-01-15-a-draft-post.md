@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  ""
-categories: [blog, ]
+categories: article
 tags: 
 excerpt_separator: <!--more-->
 sitemap:

@@ -2,7 +2,7 @@
 layout: post
 title:  It's All My Fault
 subtitle: The Art of Accountability
-categories: blog
+categories: article
 tags: accountability, excuses
 excerpt_separator: <!--more-->
 sitemap:
@@ -36,19 +36,19 @@ The result is being able to control your emotions. Emotions come from things, we
 
 
 ### What does accountability look like?  
-**The problem:**  My kid made bad grades.
-      
-**The excuse:** They should've worked harder to get a better grade.
-      
-**Accountability:** I should've spent more time making sure they received the help they needed.  
-      
-#### Here's another example.
-**The problem:** My spouse doesn't clean the house the way I like it.
-      
-**The excuse:** My spouse is just lazy and half way does everything.
-      
-**Accountability:** I could've gotten up and helped to clean up the mess. 
-  
+>>  **The problem:**  My kid made bad grades.
+>    
+>>  **The excuse:** They should've worked harder to get a better grade.
+>   
+>>  **Accountability:** I should've spent more time making sure they received the help they needed.  
+>     
+> #### Here's another example.
+>>  **The problem:** My spouse doesn't clean the house the way I like it.
+>     
+>>  **The excuse:** My spouse is just lazy and half way does everything.
+>   
+>>  **Accountability:** I could've gotten up and helped to clean up the mess. 
+
   
 ### Be part of the problem.  
 Do you see a pattern? Your excuses are what someone else could've done. The excuse could be 100% true. With accountability, you've got skin in the game. 

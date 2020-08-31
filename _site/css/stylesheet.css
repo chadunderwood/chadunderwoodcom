@@ -13,27 +13,27 @@
 
 /* Site Wide */
 a :link {
-  color: #000000;
-  text-decoration: none;
+  color: #63adf2ff;
 }
 a :hover {
-  color: #000000;
-  text-decoration: none;
+  color: #545e75ff;
 }
 a :visited {
-  color: #808080;
-}
-a :unvisited {
-  color: #000000;
-}
-ul li ::before {
-  content: "\200B";
+  color: #304d6dff;
 }
 body {
   background: #FFFFFF;
 }
 .container {
   display: flex;
+}
+.navbar-toggler {
+  color: #545e75ff;
+}
+#navbar-links {
+  font-size: 1.1rem;
+  font-family: 'Open Sans', sans-serif;
+  color: #545e75ff;
 }
 .page-title {
   padding-top: 2rem;
@@ -48,19 +48,23 @@ body {
   }
 }
 h1 {
+  color: #304d6dff;
   font-size: 3rem;
-  font-family: 'Lemonada', cursive; 
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: 600;
 }
 h2 {
   font-size: 2.25rem;
   font-family: 'Open Sans Condensed', sans-serif;
+  color: #82a0bcff;
 }
 h3, h4, h5, h6, content {
   font-family: 'Open Sans', sans-serif;
 }
 h3 {
-  font-size: 1.75rem;
-  font-weight: bold;
+  font-size: 1.5rem;
+  font-weight: 300;
+  color: #82a0bcff;
 }
 h4 {
   font-size: 1.25rem;
@@ -72,8 +76,10 @@ h6 {
   font-size: .75rem;
 }
 content {
-  font-size: 1.25rem;
+  color: #545e75ff;
+  font-size: 1.2rem;
   font-weight: 300;
+  
 }
 
 /* navigation.html */
@@ -83,6 +89,7 @@ nav {
 }
 .navbar-links{
   font: 1.5rem;
+  color: #82a0bcff;
 }
 
 /* index.html */
@@ -117,7 +124,6 @@ nav {
 footer {
   margin-top: 2rem;
   margin-bottom: 1rem;
-
   text-align: center;
 }
 /* /Blog - TIL - Archives Styles */
@@ -184,23 +190,29 @@ footer {
   max-width: 50rem;
 }
 #links-headshot {
-  max-width: 20rem;
+  max-width: 10rem;
 }
 .links-launcher {
   align-self: center;
+  text-align: center;
   border-radius: 15px;
-  box-shadow: .1px .1px 7px #808080;
+  box-shadow: .1px .1px 4px #808080;
   margin: .65rem;
   min-width: 25rem;
   max-width: 25rem;
-  height: 2.5rem;
-  font-size: 1.6rem;
+  height: 1.75rem;
+  font-size: 1.25rem;
   text-transform: uppercase;
-  justify-content: center;
-  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
 }
 #links-warning {
   align-self: center;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: .75rem;
+  font-weight: 300;
+  max-width: 40rem;
 }
 /* tweet-scheduling.html */
 #tweet-scheduling-container {

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  My Attitude Needed A Wake Up Call
-categories: [blog, ]
+categories: article
 tags: attitude, routine, habits, morning
 excerpt_separator: <!--more-->
 sitemap:
