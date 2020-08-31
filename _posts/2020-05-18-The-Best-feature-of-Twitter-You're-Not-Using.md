@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The Best feature of Twitter You're Not Using
-categories: blog
+categories: article
 tags: social networking, twitter
 excerpt_separator: <!--more-->
 sitemap:

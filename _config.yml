@@ -20,10 +20,11 @@
 
 title: Chad Underwood
 
-email: chadundrwood@gmail.com
+email: chad@chadunderwood.com
 description: Personal site of Chad Underwood. Chad Underwood is a Systems Anaylst who specializes in Process Improvement. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chadunderwood.com" # the base hostname & protocol for your site, e.g. http://example.com
+markdown: kramdown
 
 #Social Accounts -- Input you social account user names here and this will fill them in where applicable.
 twitter_username: chadaunderwood

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Worst Enemy is Me"
-categories: blog
+categories: article
 tags: change, procrastination, confidence
 excerpt_separator: <!--more-->
 sitemap:
@@ -29,17 +29,15 @@ I spend hours analyzing how to do something. I have to know everything before I 
 ### Paralyzed  
 
 Once I feel like I know everything about a subject, then comes the what I need to get started. Here’s what those look like.
-     
+
 - I need a new camera to start that YouTube channel.
-
 - I need more followers to start that newsletter.
-
 - I can't post this on Instagram because its not a perfect picture.
-
 - What if someone doesn't like it.
 
 The procrastination is not laziness. My procrastination is from fear of failure. This fear is paralyzing. Especially, for a person that lacks self confidence. I don't want to be seen as a failure.  
 
+  
 ### Comfortable with uncomfortable  
 
 My wife on the other hand is super confident. I think that confidence is what draws me to her. We are the proverbial yin and yang.

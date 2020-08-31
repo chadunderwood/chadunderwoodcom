@@ -14,7 +14,10 @@
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="theme-color" content="#ffffff">
 
-
+    <!-- Font Style -->
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@300;400;500;600;700&family=Open+Sans+Condensed:ital,wght@0,300;0,700;1,300&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+      </style> 
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
@@ -35,7 +38,6 @@
       <div class="row">
         <div class="col 6 col-sm-4">
           <span class="text-muted">Where can I take you?</span>
-          <h4 class="text-wrap">
               <div class="" id="navbar-links">
                 <div class="p-2 bd-highlight"><a href="/index">home</a></div>
                 <div class="p-2 bd-highlight"><a href="/blog">blog</a></div>
@@ -44,16 +46,16 @@
                 <!-- <div class=""><a href="/portfolio">portfolio</a></div> -->
                 <!-- <div class=""><a href="/recommended">recommended</a></div> -->
                 <div class="p-2 bd-highlight"><a href="/playlists">playlists</a></div>
-                <div class="p-2 bd-highlight"><a href="/archives">archives</a></div>
+                <div class="p-2 bd-highlight"><a href="/archive">archive</a></div>
               </div>
           </h4>
         </div>
         <div class="col-sm-4">
           <div class="d-flex flex-row-reverse">
             <div class="p-2 bd-highlight"><a href="https://www.instagram.com/chadaunderwood"><img src="/assets/img/ig_icon.png" class="rounded float-right" alt="Instagram Icon"></a></div>
-            <div class="p-2 bd-highlight"><a href="https://www.twitter.com/chadaunderwood"><img src="/assets/img/tw_icon.png" class="rounded float-right" alt="Twitter Icon"></a></div>
             <!-- <div class="p-2 bd-highlight"><a href="https://www.linkedin.com/in/underwoodchad"><img src="/assets/img/li_icon.png" class="rounded float-right" alt="LinkedIn Icon"></a></div> -->
             <div class="p-2 bd-highlight"><a href="https://www.github.com/chadunderwood"><img src="/assets/img/gh_icon.png" class="rounded float-right" alt="Git Hub Icon"></a></div>
+            <div class="p-2 bd-highlight"><a href="https://www.twitter.com/chadaunderwood"><img src="/assets/img/tw_icon.png" class="rounded float-right" alt="Twitter Icon"></a></div>
           </div>
         </div>
       </div>
@@ -64,7 +66,7 @@
       <nav class="navbar navbar-white bg-white">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class=""></span>
-          MENU
+            MENU
         </button>
       </nav>
     </div>
@@ -72,34 +74,38 @@
 <!-- Nav Bar End -->
 
 <h1 class="page-title">  </h1>
-  <div id="social-launcher-container" class="container">
+  <div id="links-launcher-container" class="container">
   <div id="links-headshot-container"><img id="links-headshot" src="assets/img/headshot.jpg" alt="headshot of Chad Underwood"></div>
-  <h6 id="links-warning">*May contain affiliate links.</h6>
-  <div id=launcher-1" class="social-launcher">
-    <a href="/tweet-scheduling.html"><h5 class="launcher-heading">AUTOMATE TWITTER</h5></a>
+  <content id="links-warning">*May contain affiliate links.</content>
+  <div id=launcher-1" class="links-launcher">
+    <a href="/tweet-scheduling.html">AUTOMATE TWITTER</a>
   </div>
-  <div id="launcher-2" class="social-launcher">
-    <a href="/domain-names.html"><h5 class="launcher-heading">DOMAIN NAMES</h5></a>
+  <div id="launcher-2" class="links-launcher">
+    <a href="/domain-names.html">BUY A DOMAIN NAME</a>
   </div>
-  <div id="launcher-3" class="social-launcher">
-    <a href="https://bit.ly/30skaJD"><h5 class="launcher-heading">GROW YOUR TWITTER</h5></a>
+  <div id="launcher-3" class="links-launcher">
+    <a href="https://bit.ly/30skaJD">GROW YOUR TWITTER</a>
   </div>
-  <div id="launcher-4" class="social-launcher">
-    <a href="https://bit.ly/2PSFLo8"><h5 class="launcher-heading">TWITTER ENGAGEMENT</h5></a>
+  <div id="launcher-4" class="links-launcher">
+    <a href="https://bit.ly/2PSFLo8">TWITTER ENGAGEMENT</a>
   </div>
-  <div id="launcher-5" class="social-launcher">
-    <a href="/blog.html"><h5 class="launcher-heading">BLOG</h5></a>
+  <div id="launcher-5" class="links-launcher">
+    <a href="/blog.html">ARTICLES</a>
   </div>
-  <div id="launcher-6" class="social-launcher">
-    <a href="/6tytrax.html"><h5 class="launcher-heading">6tyTrax</h5></a>
+  <div id="launcher-6" class="links-launcher">
+    <a href="/6tytrax.html">6tyTrax</a>
   </div>
-  <!-- <div id="launcher-X" class="social-launcher">
-    <a href="https://technicallyunderwood.com"><h5 class="launcher-heading">NEWSLETTER</h5></a>
+  <!--   <div id="launcher-6" class="links-launcher">
+    <a href="">BLANK</a>
+  </div>
   </div> -->
-  <h5 id="links-warning">Links contained on this website my contain affiliate links. </br>
-      I may receive a small amount of commission for referring you to a product.</br>
-      This commission does not affect the amount you pay for a product.
-  </h5>
+  <content id="links-warning">
+    <p>All products recommended I personally use.</p>
+    <p>Links contained on this website my contain affiliate links.
+      I may receive a small commission for referral to a product.
+      Commission does not affect the amount you pay for a product.</p>
+      
+  </content>
 </div>
 
 

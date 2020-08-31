@@ -1,32 +1,39 @@
-/* Whole Site Styles */
+/* Font Options
+
+    font-family: 'Lemonada', cursive; 
+      (weight 300-700)
+    font-family: 'Open Sans', sans-serif;
+      (weight 300, 400, 600, 700, 800)
+    font-family: 'Open Sans Condensed', sans-serif;
+      (weight 300 and 700)
+*/
+
+
+
+
+/* Site Wide */
 a :link {
-  font-weight: 100;
-  color: #000000;
-  text-decoration: none;
+  color: #63adf2ff;
 }
 a :hover {
-  font-weight: 500;
-  color: #000000;
-  text-decoration: none;
+  color: #545e75ff;
 }
 a :visited {
-  color: #808080;
-}
-a :unvisited {
-  font-weight: 250;
-  color: #000000;
-}
-ul {
- 
-}
-ul li ::before {
-  content: "\200B";
+  color: #304d6dff;
 }
 body {
   background: #FFFFFF;
 }
 .container {
   display: flex;
+}
+.navbar-toggler {
+  color: #545e75ff;
+}
+#navbar-links {
+  font-size: 1.1rem;
+  font-family: 'Open Sans', sans-serif;
+  color: #545e75ff;
 }
 .page-title {
   padding-top: 2rem;
@@ -40,17 +47,24 @@ body {
       margin-top: $spacing-unit / 3;
   }
 }
-h1, h2, h3, h4, h5, h6, content {
-  font-weight: 100;
-}
 h1 {
+  color: #304d6dff;
   font-size: 3rem;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: 600;
 }
 h2 {
-  font-size: 1.75rem;
+  font-size: 2.25rem;
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #82a0bcff;
+}
+h3, h4, h5, h6, content {
+  font-family: 'Open Sans', sans-serif;
 }
 h3 {
-  font-size: 1.35rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  color: #82a0bcff;
 }
 h4 {
   font-size: 1.25rem;
@@ -62,21 +76,23 @@ h6 {
   font-size: .75rem;
 }
 content {
-  font-weight: 100;
-  font-size: 1.5rem;
+  color: #545e75ff;
+  font-size: 1.2rem;
+  font-weight: 300;
+  
 }
 
-/* NAV BAR Styles */
+/* navigation.html */
 nav {
   margin-top: .25rem;
   font-size: 1.5rem;
-  font-weight: 100;
 }
 .navbar-links{
   font: 1.5rem;
+  color: #82a0bcff;
 }
 
-/* /Home Styles */
+/* index.html */
 #name-and-title {
   text-align: center;
   flex-direction: column;
@@ -85,12 +101,12 @@ nav {
 #name {
   align-self: center;
   font-size: 5.0rem;
-  font-weight: 100;
+
 }
 #title {
   align-self: center;
   font-size: 1.5rem;
-  font-weight: 100;
+
 }
 #home-logo {
   justify-content: center;
@@ -98,17 +114,16 @@ nav {
 }
 .text {
   font-size: 1.5rem;
-  font-weight: 100;
+
 }
 .subjects {
   font-size: 1rem;
-  font-weight: 100;
+
 }
-/* Footer Styles */
+/* footer.html */
 footer {
   margin-top: 2rem;
   margin-bottom: 1rem;
-  font-weight: 100;
   text-align: center;
 }
 /* /Blog - TIL - Archives Styles */
@@ -141,32 +156,31 @@ footer {
 }
 #archive-post-title {
   font-size: 1.25rem;
-  font-weight: 100;
 }
 #newsletter {
   padding-top: 2rem;
   align-self: center;
 }
 #til-post-date {
-  font-weight: 500;
+
   color: #000000;
 }
 
-/* About Page Styles */
+/* about.html */
 #about-container {
   flex-flow: row wrap;
-  justify-content: space-between;
-  max-width: 95rem;
+  justify-content: space-around;
+  max-width: 70rem;
 }
 #about-headshot {
   max-width: 25rem;
 }
 #about-content {
-  max-width: 60rem;
+  max-width: 40rem;
 }
 
-/* Social launcher Page */
-#social-launcher-container {
+/* links.html */
+#links-launcher-container {
   flex-direction: column;
   align-content: center;
   max-width: 50rem;
@@ -176,29 +190,31 @@ footer {
   max-width: 50rem;
 }
 #links-headshot {
-  max-width: 20rem;
+  max-width: 10rem;
 }
-.social-launcher {
+.links-launcher {
   align-self: center;
+  text-align: center;
   border-radius: 15px;
-  box-shadow: .1px .1px 7px #808080;
+  box-shadow: .1px .1px 4px #808080;
   margin: .65rem;
-  font-weight: 100;
   min-width: 25rem;
   max-width: 25rem;
-  height: 2.5rem;
-}
-.launcher-heading {
-  align-content: center;
-  font-size: 2rem;
+  height: 1.75rem;
+  font-size: 1.25rem;
   text-transform: uppercase;
-  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
 }
-
 #links-warning {
   align-self: center;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: .75rem;
+  font-weight: 300;
+  max-width: 40rem;
 }
-/* Tweet Scheduling */
+/* tweet-scheduling.html */
 #tweet-scheduling-container {
   flex-flow: row wrap;
   justify-content: space-between;
@@ -216,7 +232,7 @@ footer {
  #hypefury-content {
   max-width: 60rem;
  }
- /* Domain Names */
+ /* domain-names.html */
 #domain-name-container {
   flex-flow: row wrap;
   justify-content: space-between;
