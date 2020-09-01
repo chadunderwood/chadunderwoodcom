@@ -10,6 +10,10 @@ sitemap:
   changefreq: 'monthly'
   exclude: 'yes'
 ---
+{% include image.html
+  img="/assets/postimg/MyAttitudeNeededAWakeUpCall.jpeg"
+  title="My Worst Enemy"
+  caption="Photo by Andrew Neel from Pexels" %}
 ### 3 Ideas To A Better Morning routine.
 
 It's 6 a.m. The alarm goes off having to be out the door in 30 minutes to make it to work by 7 a.m.
@@ -20,10 +24,7 @@ Running out the door, I pour the coffee into a travel cup and grab my wallet and
 
 Sound familiar? <!--more-->
 
-{% include image.html
-  img="/assets/postimg/MyAttitudeNeededAWakeUpCall.jpeg"
-  title="My Worst Enemy"
-  caption="Photo by Andrew Neel from Pexels" %}
+
 
 
 I hit the floor running with only seconds between being on time and being late. Starting everyday on a negative note.

@@ -10,15 +10,15 @@ sitemap:
   changefreq: 'monthly'
   exclude: 'yes'
 ---
-### Small changes for the better.  
-Most of my life, I spent my quiet time coming up with ideas. Matter of fact, I have a ton of ideas. For those that know me well, I am a very analytical person.I analyze everything around me, constantly. When you meet me, I am very quiet. I am quiet because I am analyzing everything.
-
-Truth be told, I hold myself back from speaking. I do this because I don't want to say something stupid. I lack confidence in social situations.<!--more-->
-
 {% include image.html
   img="/assets/postimg/myworstenemyisme.jpeg"
   title="My Worst Enemy"
   caption="Photo by Andrea Piacquadio from Pexels" %}
+  
+### Small changes for the better.  
+Most of my life, I spent my quiet time coming up with ideas. Matter of fact, I have a ton of ideas. For those that know me well, I am a very analytical person.I analyze everything around me, constantly. When you meet me, I am very quiet. I am quiet because I am analyzing everything.
+
+Truth be told, I hold myself back from speaking. I do this because I don't want to say something stupid. I lack confidence in social situations.<!--more-->
 
 ### The Great Procrastinator
 
