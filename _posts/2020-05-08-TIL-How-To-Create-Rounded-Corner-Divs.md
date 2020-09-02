@@ -29,7 +29,6 @@ Only the border-radius property, in the example below, affects the roundness of 
     </style>
     <div id="example">
     </div>
-  
-
 #### OUTPUT
-<div id="example" style="width: 100px; height: 40px; border-radius: 15px;background-color: black;"><div>  
+<div id="example" style="width: 100px; height: 40px; border-radius: 15px;background-color: black;"><div>
+

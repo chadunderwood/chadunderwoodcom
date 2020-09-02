@@ -1,6 +1,8 @@
 ---
 layout: post
-title:  ""
+title: 
+subtitle: 
+summary: 
 categories: article
 tags: 
 excerpt_separator: <!--more-->
@@ -10,9 +12,7 @@ sitemap:
   changefreq: 'monthly'
   exclude: 'yes'
 ---
-Hello World! Content goes here. 
-
 {% include image.html
-  img="/assets/postimg/MyAttitudeNeededAWakeUpCall.jpeg"
+  img="/assets/postimg/.jpeg"
   title=""
   caption="" %}
