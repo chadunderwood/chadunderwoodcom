@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  The Best feature of Twitter You're Not Using
+subtitle: Controlling the conversation.
 categories: article
 tags: social networking, twitter
 excerpt_separator: <!--more-->
@@ -10,8 +11,6 @@ sitemap:
   changefreq: 'monthly'
   exclude: 'no'
 ---
-
-### The King of Social Media
 For years, I have sang the praises of Twitter. In my opinion, Twitter is the most powerful social network of all the land. It lends the best layout for conversation and networking with people you don't know. The others are greared toward friends or people you know. <!--more--> They all have great features but for my money, Twitter is champion. 
 
 ### One Downside
