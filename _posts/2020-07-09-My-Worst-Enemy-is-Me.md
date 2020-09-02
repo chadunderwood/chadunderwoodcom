@@ -2,6 +2,7 @@
 layout: post
 title:  "My Worst Enemy is Me"
 subtitle: Small changes for the better.
+summary: Most of my life, I spent my quiet time coming up with ideas. Matter of fact, I have a ton of ideas. For those that know me well, I am a very analytical person.I analyze everything around me constantly. When you meet me, I am very quiet. I am quiet because I am analyzing everything. 
 categories: article
 tags: change, procrastination, confidence
 excerpt_separator: <!--more-->
@@ -18,7 +19,7 @@ sitemap:
 
 Most of my life, I spent my quiet time coming up with ideas. Matter of fact, I have a ton of ideas. For those that know me well, I am a very analytical person.I analyze everything around me, constantly. When you meet me, I am very quiet. I am quiet because I am analyzing everything.
 
-Truth be told, I hold myself back from speaking. I do this because I don't want to say something stupid. I lack confidence in social situations.<!--more-->
+Truth be told, I hold myself back from speaking. I do this because I don't want to say something stupid. I lack confidence in social situations.
 
 ### The Great Procrastinator
 

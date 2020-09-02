@@ -2,6 +2,7 @@
 layout: post
 title:  The Best Friend, That Was There The Whole Time
 subtitle: I changed my default search engine for learning.
+summary: Over my years in tech, I’ve always said "Search engines are your best friend for learning new things." This has always held true. I’ve started hanging with a new pal.
 categories: article
 tags: social media, YouTube
 excerpt_separator: <!--more-->
@@ -11,7 +12,8 @@ sitemap:
   changefreq: 'monthly'
   exclude: 'no'
 ---
-Over my years in tech, I’ve always said "Search engines are your best friend for learning new things." This has always held true. I’ve started hanging with a new pal. <!--more--> 
+Over my years in tech, I’ve always said "Search engines are your best friend for learning new things." This has always held true. I’ve started hanging with a new pal.
+  
 I have found myself turning to YouTube for answers. In the past, search engines were king for everything. I have quit being old school and move to today. 
 
 I always knew there was a better place. But I habitually used web crawlers like Google. 

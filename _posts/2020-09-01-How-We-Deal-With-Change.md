@@ -2,6 +2,7 @@
 layout: post
 title:  How We Deal With Change
 subtitle: The 7 Emotions of Change
+summary: When dealing with change and people, you have to realize there are emotions tied to change. All humans must go through certain emotions during change. This is important because you need to know how to deal with people during change.
 categories: article
 tags: process improvement, change, 
 excerpt_separator: <!--more-->
@@ -20,7 +21,7 @@ When dealing with change and people, you have to realize there are emotions tied
 
 All humans must go through certain emotions during change.
 
-This is important because you need to know how to deal with people during change.<!--more-->
+This is important because you need to know how to deal with people during change.
 
 These apply when you are changing your life or if something happens to someone you know.
 
