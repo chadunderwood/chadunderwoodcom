@@ -236,7 +236,7 @@ footer {
 #domain-name-container {
   flex-flow: row wrap;
   justify-content: space-between;
-  max-width: 95rem;
+  max-width: 65rem;
   padding-bottom: 10rem;
 }
   }
