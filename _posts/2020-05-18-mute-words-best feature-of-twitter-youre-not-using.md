@@ -2,7 +2,7 @@
 layout: post
 title:  Mute Words -- Best Feature of Twitter You're Not Using
 subtitle: Controlling the conversation.
-summary: For years, I have sang the praises of Twitter. In my opinion, Twitter is the most powerful social network of all the land. It lends the best layout for conversation and networking with people you don't know. The others are greared toward friends or people you know.
+summary: Explains the Twitter mute keywords feature. Then explains how to set it up.
 categories: article
 tags: social networking, twitter
 excerpt_separator: <!--more-->
