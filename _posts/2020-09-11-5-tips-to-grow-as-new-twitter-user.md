@@ -4,9 +4,10 @@
 ---
 
 <hr>
-<h2 id="layout-posttitle-5-tips-to-grow-as-new-twitter-usersubtitle-start-gaining-tractioncategories-articletags-twitter-social-networkingexcerpt_separator---more--sitemaplastmodprioritychangefreq-monthlyexclude-no">layout: post<br>
+<h2 id="layout-posttitle-5-tips-to-grow-as-new-twitter-usersubtitle-start-gaining-tractionsummary-5-basic-tips-to-get-new-twitter-users-started.categories-articletags-twitter-social-networkingexcerpt_separator---more--sitemaplastmodprioritychangefreq-monthlyexclude-no">layout: post<br>
 title: 5 Tips To Grow As New Twitter User<br>
 subtitle: Start Gaining Traction<br>
+summary: 5 basic tips to get new Twitter users started.<br>
 categories: article<br>
 tags: twitter, social networking<br>
 excerpt_separator: <!--more--><br>
