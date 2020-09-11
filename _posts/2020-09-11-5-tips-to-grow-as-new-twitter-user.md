@@ -7,10 +7,10 @@ categories: article
 tags: twitter, social networking
 excerpt_separator: <!--more-->
 sitemap:
-lastmod:
-priority:
-changefreq: ‘monthly’
-exclude: ‘no’
+  lastmod:
+  priority:
+  changefreq: ‘monthly’
+  exclude: ‘no’
 ---
 <p>You signed up for a Twitter account.</p>
 <p>Then you followed some great people.</p>
