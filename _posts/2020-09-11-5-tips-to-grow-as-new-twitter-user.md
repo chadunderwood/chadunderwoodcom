@@ -1,21 +1,17 @@
 ---
-
-
+layout: post
+title: 5 Tips To Grow As New Twitter User
+subtitle: Start Gaining Traction
+summary: 5 basic tips to get new Twitter users started.
+categories: article
+tags: twitter, social networking
+excerpt_separator: <!--more-->
+sitemap:
+lastmod:
+priority:
+changefreq: ‘monthly’
+exclude: ‘no’
 ---
-
-<hr>
-<h2 id="layout-posttitle-5-tips-to-grow-as-new-twitter-usersubtitle-start-gaining-tractionsummary-5-basic-tips-to-get-new-twitter-users-started.categories-articletags-twitter-social-networkingexcerpt_separator---more--sitemaplastmodprioritychangefreq-monthlyexclude-no">layout: post<br>
-title: 5 Tips To Grow As New Twitter User<br>
-subtitle: Start Gaining Traction<br>
-summary: 5 basic tips to get new Twitter users started.<br>
-categories: article<br>
-tags: twitter, social networking<br>
-excerpt_separator: <!--more--><br>
-sitemap:<br>
-lastmod:<br>
-priority:<br>
-changefreq: ‘monthly’<br>
-exclude: ‘no’</h2>
 <p>You signed up for a Twitter account.</p>
 <p>Then you followed some great people.</p>
 <p>What do you do now? Great that you ask.</p>
