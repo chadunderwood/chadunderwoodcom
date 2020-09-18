@@ -3,6 +3,7 @@ layout: post
 title: I'm Here Now What?
 subtitle: Having presence in the moment.
 summary: This week we dig into the second thing all successful people do. Last week we walked through showing up. Once you’re in attendance there is one more step to success. Paying attention.
+image: /assets/postimg/imherenowwhat.jpeg
 categories: article
 tags: mindset, presence
 excerpt_separator: <!--more-->

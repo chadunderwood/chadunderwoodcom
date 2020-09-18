@@ -3,6 +3,7 @@ layout: post
 title:  The Best Friend, That Was There The Whole Time
 subtitle: I changed my default search engine for learning.
 summary: Over my years in tech, I’ve always said "Search engines are your best friend for learning new things." This has always held true. I’ve started hanging with a new pal.
+image: 
 categories: article
 tags: social media, YouTube
 excerpt_separator: <!--more-->

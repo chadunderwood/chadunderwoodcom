@@ -3,6 +3,7 @@ layout: post
 title:  My Attitude Needed A Wake Up Call
 subtitle: 3 Ideas To A Better Morning routine.
 summary: It's 6 a.m. The alarm goes off having to be out the door in 30 minutes to make it to work by 7 a.m. I hop out of bed. Run to start some coffee. Jump in the shower. Quickly brush my teeth. Sling on some clothes. Running out the door, I pour the coffee into a travel cup and grab my wallet and keys. Now with no time to spare, zooming down the highway at 90 just hoping there’s no traffic.
+image: /assets/postimg/MyAttitudeNeededAWakeUpCall.jpeg
 categories: article
 tags: attitude, routine, habits, morning
 excerpt_separator: <!--more-->

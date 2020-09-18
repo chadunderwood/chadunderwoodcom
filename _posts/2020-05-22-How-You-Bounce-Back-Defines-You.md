@@ -3,6 +3,7 @@ layout: post
 title: How You Bounce Back Defines You.
 subtitle: If I could be like Mike.
 summary: My family and I finished The Last Dance documentary this week and for me it was so good. (No spoilers) It was nice to relive my childhood and see some of the great plays that they made. The sound of their intro music still gets me pumped. But there was so much more to the documentary other than the happenings on the court.
+image: /assets/postimg/howyoubouncebackdefinesyou.jpeg
 categories: article
 tags: 
 excerpt_separator: <!--more-->

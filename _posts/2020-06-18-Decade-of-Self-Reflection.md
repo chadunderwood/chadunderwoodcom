@@ -3,8 +3,9 @@ layout: post
 title: Decade of Self Reflection
 subtitle: Changing your mindset.
 summary: If I gave titles to the decades of my life, my 30's would be, "The Decade Of Self Reflection". In my reflection, I have found my mindset to be my biggest set back. I have consistently been my own antagonist.
+image: 
 categories: article
-tags: 
+tags: /assets/postimg/decadeofselfreflection.jpeg
 excerpt_separator: <!--more-->
 sitemap:
   lastmod: 

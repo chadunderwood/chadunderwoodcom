@@ -3,6 +3,7 @@ layout: post
 title: 5 Things Not To Do On Twitter
 subtitle: The Five Commandments of Twitter
 summary: There are 5 things you shouldn't do on Twitter. These are the things not to do on Twitter.
+image:
 categories: article
 tags: social networking, Twitter
 excerpt_separator: <!--more-->

@@ -3,6 +3,7 @@ layout: post
 title: Success in Life. It Takes Two.
 subtitle: You have to show up.
 summary: Some of you may not know my back story, so let me share. I am a Dad to 4 great boys with a girl on the way. We spend a ton of time teaching life lessons. Our oldest son is 15 and starting high school this year. We have been trying to help him understand this year starts real life. Our next eldest son is 11 and we are working on accountability for your actions.
+image: /assets/postimg/successinlifeittakestwo.jpeg
 categories: article
 tags: success, life, accountability
 excerpt_separator: <!--more-->

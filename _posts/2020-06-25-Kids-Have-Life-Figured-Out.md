@@ -3,6 +3,7 @@ layout: post
 title:  Kids Have Life Figured Out
 subtitle: Maintain Persistence to the Finish Line
 summary: The other day my 3 year old wanted a toy from behind the couch. He kept on and on until I stopped what I was doing to get the toy. Why was he so persistent? He knew that eventually I would give in as long as he was persistent.
+image: /assets/postimg/kidshavelifefiguredout.jpeg
 categories: article
 tags: persistence, kids, goals
 excerpt_separator: <!--more-->

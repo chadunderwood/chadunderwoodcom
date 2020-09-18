@@ -3,6 +3,7 @@ layout: post
 title: I Hate The Person In The Mirror
 subtitle: It's time for self reflection and change.
 summary: Ever heard the cliché, you are the people you surround yourself with? I know I sure have. In life, I have found by changing the people around me, I have changed the way of my life's progression.
+image: /assets/postimg/maninthemirror.jpeg
 categories: article
 tags: mindset, inner circle, self reflection
 excerpt_separator: <!--more-->

@@ -3,6 +3,7 @@ layout: post
 title: 5 Tips To Grow As New Twitter User
 subtitle: Start Gaining Traction
 summary: 5 basic tips to get new Twitter users started.
+image: 
 categories: article
 tags: twitter, social networking
 excerpt_separator: <!--more-->

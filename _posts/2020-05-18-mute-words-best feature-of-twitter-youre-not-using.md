@@ -3,6 +3,7 @@ layout: post
 title:  Mute Words -- Best Feature of Twitter You're Not Using
 subtitle: Controlling the conversation.
 summary: Explains the Twitter mute keywords feature. Then explains how to set it up.
+image: 
 categories: article
 tags: social networking, twitter
 excerpt_separator: <!--more-->
