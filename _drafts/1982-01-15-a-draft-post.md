@@ -3,6 +3,7 @@ layout: post
 title: 
 subtitle: 
 summary: 
+image:
 categories: article
 tags: 
 excerpt_separator: <!--more-->
