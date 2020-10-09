@@ -27,14 +27,7 @@ body {
 .container {
   display: flex;
 }
-.navbar-toggler {
-  color: #545e75ff;
-}
-#navbar-links {
-  font-size: 1.1rem;
-  font-family: 'Open Sans', sans-serif;
-  color: #545e75ff;
-}
+
 .page-title {
   padding-top: 2rem;
   padding-left: 5rem;
@@ -83,41 +76,39 @@ content {
 }
 
 /* navigation.html */
-nav {
-  margin-top: .25rem;
-  font-size: 1.5rem;
+#navigation {
+  min-height: 10rem;
+  min-width: 95%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  align-items: center;
 }
-.navbar-links{
-  font: 1.5rem;
-  color: #82a0bcff;
-}
-
-/* index.html */
-#name-and-title {
-  text-align: center;
-  flex-direction: column;
-  justify-content: center;
-}
-#name {
+#navigation-home {
+  min-width: 20%;
   align-self: center;
-  font-size: 5.0rem;
-
-}
-#title {
-  align-self: center;
-  font-size: 1.5rem;
-
-}
-#home-logo {
-  justify-content: center;
-  width: 20rem;
-}
-.text {
-  font-size: 1.5rem;
-
-}
-.subjects {
   font-size: 1rem;
+  font-family: 'Open Sans', sans-serif;
+}
+#navigation-links {
+  min-width: 70%;
+  flex-flow: row wrap;
+  align-self: center;
+  justify-content: space-between;
+  font-size: 1rem;
+  font-family: 'Open Sans', sans-serif;
+  color: #545e75ff;
+}
+#navigation-links-1 { 
+  align-self: center;
+}
+#navigation-links-2 { 
+  align-self: center;
+}
+#navigation-links-3 { 
+  align-self: center;
+}
+/* index.html */
 
 }
 /* footer.html */
