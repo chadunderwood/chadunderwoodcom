@@ -1,0 +1,27 @@
+---
+layout: default
+title: Articles
+permalink: /articles
+sitemap:
+  lastmod: 
+  priority: 
+  changefreq: 'monthly'
+  exclude: 'no'
+---
+
+<!-- Posts -->
+<div class="container">
+  <div>
+    {% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%Y %b'"  %}
+    {% for yearMonth in postsByYearMonth %}
+      <h2>{{ yearMonth.name }}</h2>
+        <ul id="articles-list" class="">
+          {% for post in yearMonth.items %}
+          <li id="articles-post-title">
+            {{ post.date | date: "%d"}}&nbsp;&nbsp;<a href="{{ post.url }}">{{ post.categories }} - {{ post.title }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+      {% endfor %}
+  </div>
+</div>

@@ -49,7 +49,7 @@
   <nav class="menu">
         <a id="navigation-title" href="/index">Chad Underwood</a>
       <ol class="menu-links">
-        <ul><a href="/blog">Articles</a></ul>
+        <ul><a href="/articles">Articles</a></ul>
         <ul><a href="/books">Books</a></ul>
         <ul><a href="/newsletter">Newletter</a></ul>
         <ul><a href="/til">Today I Learned</a></ul>
@@ -60,11 +60,14 @@
 <hr>
 <!-- Nav Bar End -->
 
-    <div id="blog-container" class="container">
-      <h1>How To Create Rounded Corner Divs</h1><h2>  </h2>
-
-      <div class="post-container">
-        <content> <p>I created a launcher to link to certain things from my social media. This will allow me included links to multiple things from the bios in my social media. I started with squared corner divs and decided I wanted something that looked a little more like a button. I am sure this is something I will need to use in the future a lot.</p>
+      <div id="blog-container" class="container">
+        <div id="post-title">
+          <h1>How To Create Rounded Corner Divs</h1>
+          <h2></h2>
+        </div>
+        <br>
+        <div id="post-content">
+          <content><p>I created a launcher to link to certain things from my social media. This will allow me included links to multiple things from the bios in my social media. I started with squared corner divs and decided I wanted something that looked a little more like a button. I am sure this is something I will need to use in the future a lot.</p>
 
 <p>The border radius property in CSS is what allows you to round the corners on a square div. The lower, the number, the less round the corners are. The higher, the number, the more rounded the corners will get.</p>
 
@@ -87,17 +90,13 @@ border-radius: 15px;
 <div id="example" style="width: 100px; height: 40px; border-radius: 15px;background-color: black;"><div>
 
 </div></div>
- </content>
+</content>
+        </div>
       </div>
-      <div id="newsletter">
-      <iframe src="https://technicallyunderwood.substack.com/embed" width="325" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-      </div>  
-    </div>
     
     <script id="twitter-wjs" type="text/javascript" async defer src="//platform.twitter.com/widgets.js"></script>
   </body>
-<footer>
-<div id="footer" class="container">
+  <footer><div id="footer" class="container">
   <div>
     <ol>
       <ul></ul>
@@ -139,6 +138,5 @@ border-radius: 15px;
   </div>
   Made by hand, with love, in Nashville. -- Chad Underwood © 2020
 </div>
-
 </footer>
 </html>
