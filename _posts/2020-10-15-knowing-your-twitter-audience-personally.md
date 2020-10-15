@@ -18,7 +18,7 @@ sitemap:
   title=""
   caption="" %}
   
-## Old idea in a new context
+ ## Old idea in a new context
 Personas are not new. They are used in UX design. Companies use them to define their customers and their experience. Personas will work for small and large accounts.
 
 Follow along. I'll explain how and why.
