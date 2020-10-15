@@ -24,7 +24,7 @@ Personas are not new. They are used in UX design. Companies use them to define t
 Follow along. I'll explain how and why.
 
 Personas are made up people. Each persona represents a portion of your target audience. Personas create empathy for your audience. And defines the experience they want.
-
+  
 ### Getting Started
  1.  Create 3 made up people. 
  2. Each made up person is a persona. 
@@ -36,7 +36,7 @@ Personas are made up people. Each persona represents a portion of your target au
 *(This creates bias towards these people's personalities.)*
 
 ### Next Steps
-
+  
 Define each of the persona's
 - interests
 - pain points
@@ -52,10 +52,11 @@ Define these traits through research you do and feedback you receive.
 - comments in tweets
 
 ### Personas evolve
+  
 As data changes, your personas should evolve. From this evolution you need to adapt your account. This will keep your audience fully engaged.
 
 ### What A Basic Persona Looks Like.
-
+  
 **Here is an example Persona**
 
 > **Name:** Larry Wharton
