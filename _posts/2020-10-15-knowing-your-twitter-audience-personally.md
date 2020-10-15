@@ -18,14 +18,14 @@ sitemap:
   title=""
   caption="" %}
   
- ## Old idea in a new context
+# Old idea in a new context
 Personas are not new. They are used in UX design. Companies use them to define their customers and their experience. Personas will work for small and large accounts.
 
 Follow along. I'll explain how and why.
 
 Personas are made up people. Each persona represents a portion of your target audience. Personas create empathy for your audience. And defines the experience they want.
   
-### Getting Started
+## Getting Started
  1.  Create 3 made up people. 
  2. Each made up person is a persona. 
  3. Give each persona a name and a face.
@@ -35,7 +35,7 @@ Personas are made up people. Each persona represents a portion of your target au
 - celebrities
 *(This creates bias towards these people's personalities.)*
 
-### Next Steps
+## Next Steps
   
 Define each of the persona's
 - interests
@@ -51,11 +51,11 @@ Define these traits through research you do and feedback you receive.
 - feedback in the DMs
 - comments in tweets
 
-### Personas evolve
+## Personas evolve
   
 As data changes, your personas should evolve. From this evolution you need to adapt your account. This will keep your audience fully engaged.
 
-### What A Basic Persona Looks Like.
+## What A Basic Persona Looks Like.
   
 **Here is an example Persona**
 
@@ -78,13 +78,13 @@ As data changes, your personas should evolve. From this evolution you need to ad
 > - eggs
 > - dividends
 
-### More about Larry...
+## More about Larry...
 Larry is the main audience. You know what content keeps Larry happy.  Avoid politics and negativity. Post content to his loves and interests. This info gives 7 topics to keep him engaged. Larry is the largest part of your following. Tweet to his interests the most.
 
-### What about the other guy?
+## What about the other guy?
 The other personas are smaller parts of the audience. There will be overlap into Larry's characteristics. The overlap is your bread and butter. The overlap will be your most engaged with tweets. As you adapt your personas, you will see your following and engagement increase.
 
 Content should be directed to the smaller portion of your audience, too. Expect this content to be engaged with the least. But this content keeps the smaller parts happy.
 
-### For the future.
+## For the future.
 Personas define your future content. Done correctly you will increase engagement. It is a small task to know exactly who is in the crowd. They key is posting to the overlapping topics between all of the audience the most.
