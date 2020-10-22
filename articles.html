@@ -1,0 +1,64 @@
+---
+layout: default
+title: 
+permalink: /articles
+sitemap:
+  lastmod: 
+  priority: 
+  changefreq: 'monthly'
+  exclude: 'no'
+---
+
+<!-- Posts -->
+<div id="articles-container" class="container">
+  <!-- <h1 style="text-align: center;">
+   Best Articles
+  </h1>
+  <content>
+      This page shares my best articles to read on topics like health, happiness, creativity, productivity and more. 
+      The central question that drives my work is, “How can we live better?” To answer that question, 
+      I like to write about science-based ways to solve practical problems.
+
+      You’ll find interesting articles to read on topics like how to stop procrastinating as well as personal 
+      recommendations like my list of the best books to read and my minimalist travel guide. 
+      Ready to dive in? You can use the categories below to browse my best articles or scroll down to see every 
+      post by date and title.
+  </content>
+  <div id="articles-category-container" class="container">
+    <h3>Best Articles by Category</h3>
+    <div id="articles-category-lists" class="container">
+      <ol>
+      <ul>one</ul>
+      <ul>two</ul>
+      <ul>three</ul>
+      </ol>
+      <ol>
+      <ul>one</ul>
+      <ul>two</ul>
+      <ul>three</ul>
+      </ol>
+      <ol>
+      <ul>one</ul>
+      <ul>two</ul>
+      <ul>three</ul>
+      </ol>
+    </div>
+  </div> -->
+  <div id="articles-articlesbydate">
+    <h1>All Articles by Date</h1>
+    Scroll down to browse all of my articles by date and title. Articles are listed in reverse chronological order with my newest articles at the top and my oldest essays at the bottom.<br>
+  </div>
+  <div id="articles-bydate-list">
+    {% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%Y %b'"  %}
+    {% for yearMonth in postsByYearMonth %}
+          <h2>{{ yearMonth.name }}</h2>
+      <ul id="articles-list" class="">
+          {% for post in yearMonth.items %}
+        <li id="articles-post-title">
+          {{ post.date | date: "%d"}}&nbsp;&nbsp;<a href="{{ post.url }}">{{ post.categories }} - {{ post.title }}</a>
+        </li>
+          {% endfor %}
+      </ul>
+    {% endfor %}
+  </div>
+</div>
