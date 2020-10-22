@@ -114,13 +114,36 @@ h6 {
   font-size: 1rem;
 }
 content {
-  font-size: 1.5rem;
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 1.25rem;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: regular;
 }
 footer {
-  min-height: 15rem;
+  padding-top: 2rem;
+  display: flex;
+  flex-direction: row;
+  min-height: 10rem;
   background-color: #dbdbdb;
 }
+#footer-column-1 {
+  display: flex;
+  flex-direction: column;
+}
+#footer-column-2 {
+  display: flex;
+  flex-direction: column;
+}
+#footer-name {
+  font-size: 1.25rem;
+}
+#footer-column-3 {
+  display: flex;
+  flex-direction: column;
+}
+#footer-row {
+  padding-top: 1rem;
+}
+
 
 /* index.html */
 #index {
@@ -209,47 +232,12 @@ footer {
   flex-flow: row wrap;
   justify-content: space-around;
   max-width: 70rem;
+  padding-bottom: 1rem;
 }
 #about-headshot {
   max-width: 25rem;
 }
 #about-content {
-  max-width: 40rem;
-}
-
-/* links.html */
-#links-launcher-container {
-  flex-direction: column;
-  align-content: center;
-  max-width: 50rem;
-}
-#links-headshot-container {
-  align-self: center;
-  max-width: 50rem;
-}
-#links-headshot {
-  max-width: 10rem;
-}
-.links-launcher {
-  align-self: center;
-  text-align: center;
-  border-radius: 15px;
-  box-shadow: .1px .1px 4px #808080;
-  margin: .65rem;
-  min-width: 25rem;
-  max-width: 25rem;
-  height: 1.75rem;
-  font-size: 1.25rem;
-  text-transform: uppercase;
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 300;
-}
-#links-warning {
-  align-self: center;
-  text-align: center;
-  font-family: 'Open Sans', sans-serif;
-  font-size: .75rem;
-  font-weight: 300;
   max-width: 40rem;
 }
 
