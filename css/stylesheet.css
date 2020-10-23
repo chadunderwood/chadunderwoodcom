@@ -57,27 +57,21 @@ body {
 .container {
   display: flex;
 }
+nav a {
+  display: inline-block;
+}
 #navigation {
-  display: inline-flex;
-  padding-top: 1rem;
-  padding-left: 0rem;
-  justify-content: flex-start;
-  align-items: center;
-  align-content: center;
-  min-height: 2rem;
+
 }
 #navigation-title {
-  padding-left: 2rem;
+  flex-direction: row;
   font-size: 1.2rem;
 }
 .menu {
-  align-self: auto;
+  display: inline;
 }
-.menu-links {
-  max-width: 60rem;
-  padding-left: 10rem;
-  display: inline-flex;
-  align-self: auto;
+#menu-links {
+
 }
 .page-title {
   padding-top: 2rem;
@@ -226,19 +220,25 @@ footer {
 
 }
 
+/* biography.html */
 
-/* about.html */
-#about-container {
-  flex-flow: row wrap;
-  justify-content: space-around;
-  max-width: 70rem;
-  padding-bottom: 1rem;
+/* newsletter.html */
+#newsletter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
-#about-headshot {
-  max-width: 25rem;
+
+/* books.html */
+#book-listing {
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
-#about-content {
-  max-width: 40rem;
+#book-picture {
+  padding-right: 1rem;
 }
 
 /* tweet-scheduling.html */
