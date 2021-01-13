@@ -3,82 +3,46 @@ Font Options
  --font-family: 'Open Sans', sans-serif; (weight 300, 400, 600, 700, 800)
  --font-family: 'Open Sans Condensed', sans-serif; (weight 300 and 700)
 
-CSS HEX 
---independence: #545e75ff;
---blue-jeans: #63adf2ff;
---baby-blue-eyes: #a7ccedff;
---yale-blue: #304d6dff;
---air-superiority-blue: #82a0bcff;
-
-CSS HSL
---independence: hsla(222, 16%, 39%, 1);
---blue-jeans: hsla(209, 85%, 67%, 1);
---baby-blue-eyes: hsla(208, 66%, 79%, 1);
---yale-blue: hsla(211, 39%, 31%, 1);
---air-superiority-blue: hsla(209, 30%, 62%, 1);
-
-SCSS HEX
-$independence: #545e75ff;
-$blue-jeans: #63adf2ff;
-$baby-blue-eyes: #a7ccedff;
-$yale-blue: #304d6dff;
-$air-superiority-blue: #82a0bcff;
-
-SCSS HSL
-$independence: hsla(222, 16%, 39%, 1);
-$blue-jeans: hsla(209, 85%, 67%, 1);
-$baby-blue-eyes: hsla(208, 66%, 79%, 1);
-$yale-blue: hsla(211, 39%, 31%, 1);
-$air-superiority-blue: hsla(209, 30%, 62%, 1);
-
-SCSS RGB
-$independence: rgba(84, 94, 117, 1);
-$blue-jeans: rgba(99, 173, 242, 1);
-$baby-blue-eyes: rgba(167, 204, 237, 1);
-$yale-blue: rgba(48, 77, 109, 1);
-$air-superiority-blue: rgba(130, 160, 188, 1);
-
-SCSS Gradient
-$gradient-top: linear-gradient(0deg, #545e75ff, #63adf2ff, #a7ccedff, #304d6dff, #82a0bcff);
-$gradient-right: linear-gradient(90deg, #545e75ff, #63adf2ff, #a7ccedff, #304d6dff, #82a0bcff);
-$gradient-bottom: linear-gradient(180deg, #545e75ff, #63adf2ff, #a7ccedff, #304d6dff, #82a0bcff);
-$gradient-left: linear-gradient(270deg, #545e75ff, #63adf2ff, #a7ccedff, #304d6dff, #82a0bcff);
-$gradient-top-right: linear-gradient(45deg, #545e75ff, #63adf2ff, #a7ccedff, #304d6dff, #82a0bcff);
-$gradient-bottom-right: linear-gradient(135deg, #545e75ff, #63adf2ff, #a7ccedff, #304d6dff, #82a0bcff);
-$gradient-top-left: linear-gradient(225deg, #545e75ff, #63adf2ff, #a7ccedff, #304d6dff, #82a0bcff);
-$gradient-bottom-left: linear-gradient(315deg, #545e75ff, #63adf2ff, #a7ccedff, #304d6dff, #82a0bcff);
-$gradient-radial: radial-gradient(#545e75ff, #63adf2ff, #a7ccedff, #304d6dff, #82a0bcff);
-*/
-
 /* Site Wide */
 body {
   background: #FFFFFF;
 }
+a {
+  color: #75b8c8;
+  text-decoration: none;
+}
+
+header {
+  background-color: #4a4e69;
+  color: #cdd3d5;
+}
+body {
+ 
+}
 .container {
   display: flex;
 }
-#navigation {
-  display: inline-flex;
-  padding-top: 1rem;
-  padding-left: 0rem;
-  justify-content: flex-start;
+nav.flexbox {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   align-items: center;
-  align-content: center;
-  min-height: 2rem;
+  color: #cdd3d5;
 }
+nav.ul {
+
+}
+nav.ul nav.li {
+
+}
+
 #navigation-title {
-  padding-left: 2rem;
+  color: #cdd3d5;
+  display: inline;
+  flex-direction: row;
   font-size: 1.2rem;
 }
-.menu {
-  align-self: auto;
-}
-.menu-links {
-  max-width: 60rem;
-  padding-left: 10rem;
-  display: inline-flex;
-  align-self: auto;
-}
+
 .page-title {
   padding-top: 2rem;
   padding-left: 5rem;
@@ -119,11 +83,12 @@ content {
   font-weight: regular;
 }
 footer {
+  color: #cdd3d5;
   padding-top: 2rem;
   display: flex;
   flex-direction: row;
   min-height: 10rem;
-  background-color: #dbdbdb;
+  background-color: #6da34d;
 }
 #footer-column-1 {
   display: flex;
@@ -156,7 +121,7 @@ footer {
   flex-flow: column;
   justify-content: center;
   text-align: center;
-  padding-bottom: 1rem;
+  
 }
 #index-book {
   flex-flow: row;
@@ -226,19 +191,25 @@ footer {
 
 }
 
+/* biography.html */
 
-/* about.html */
-#about-container {
-  flex-flow: row wrap;
-  justify-content: space-around;
-  max-width: 70rem;
-  padding-bottom: 1rem;
+/* newsletter.html */
+#newsletter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
-#about-headshot {
-  max-width: 25rem;
+
+/* books.html */
+#book-listing {
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
-#about-content {
-  max-width: 40rem;
+#book-picture {
+  padding-right: 1rem;
 }
 
 /* tweet-scheduling.html */
