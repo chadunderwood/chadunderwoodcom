@@ -50,8 +50,7 @@ We noticed his Twitter posts were being put on Instagram. I knew, it was time to
 
 A self hosted website in the works. This site allows expansion of the brand further. It's a place for articles and monetization. Blog articles will draw his audience closer and allow SEO to bring a larger community.
 
-**Proof is in the Results**
-
+### Proof is in the Results
 With my mentoring. Kolin has taken a solitary Twitter account to a full fledged brand. His brand is now serving a growing community of 14,000+.
 The best part? 
 The brand is everywhere the people are.
