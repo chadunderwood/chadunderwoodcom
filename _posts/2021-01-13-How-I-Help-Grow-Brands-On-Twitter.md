@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I Grow Brand on Twitter
+title: How I Help Grow Brands on Twitter
 subtitle: Transitioning a small Twitter account into a full brand.
 summary: 
 image:
