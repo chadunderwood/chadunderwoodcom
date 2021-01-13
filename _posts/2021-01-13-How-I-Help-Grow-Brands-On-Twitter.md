@@ -55,11 +55,3 @@ A self hosted website in the works. This site allows expansion of the brand furt
 With my mentoring. Kolin has taken a solitary Twitter account to a full fledged brand. His brand is now serving a growing community of 14,000+.
 The best part? 
 The brand is everywhere the people are.
-
-— —
-
-### Subject 3
-
-With ❤ from Nashville,
-
-Chad
