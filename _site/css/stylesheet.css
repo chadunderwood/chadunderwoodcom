@@ -11,14 +11,6 @@ a {
   color: #75b8c8;
   text-decoration: none;
 }
-
-header {
-  background-color: #4a4e69;
-  color: #cdd3d5;
-}
-body {
- 
-}
 hr {
   width: 100%;
   height: .075em;
@@ -26,26 +18,35 @@ hr {
 }
 .container {
   display: flex;
+  flex-direction: column;
+  max-width: 50%;
 }
-nav.flexbox {
+.navigation {
+  color: #cdd3d5;
+  font-size: 1.3rem;
+
+
+}
+.navigation a{
+  color: #cdd3d5;
+  
+}
+.navigation ul {
   display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  color: #cdd3d5;
-}
-nav.ul {
-
-}
-nav.ul nav.li {
-
-}
-
-#navigation-title {
-  color: #cdd3d5;
-  display: inline;
   flex-direction: row;
-  font-size: 1.2rem;
+  background: #4a4e69;
+
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+}
+
+.navigation li {
+  justify-content: center;
+  flex: 5;  
+  padding-left: 3rem;
+  padding-right: 1rem;  
 }
 
 .page-title {
@@ -86,37 +87,22 @@ h6 {
   font-size: .9rem;
 }
 content {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding-top: 2rem;
+  align-self: center;
   font-size: 1.25rem;
   font-family: 'Open Sans', sans-serif;
   font-weight: regular;
+  min-height: 100vh;
 }
 footer {
+  flex-direction: column;
+  flex-shrink: 0;
   color: #cdd3d5;
-  padding-top: 2rem;
-  display: flex;
-  flex-direction: row;
-  min-height: 10rem;
   background-color: #6da34d;
 }
-#footer-column-1 {
-  display: flex;
-  flex-direction: column;
-}
-#footer-column-2 {
-  display: flex;
-  flex-direction: column;
-}
-#footer-name {
-  font-size: 1.25rem;
-}
-#footer-column-3 {
-  display: flex;
-  flex-direction: column;
-}
-#footer-row {
-  padding-top: 1rem;
-}
-
 
 /* index.html */
 #index {
@@ -129,7 +115,6 @@ footer {
   flex-flow: column;
   justify-content: center;
   text-align: center;
-  
 }
 #index-book {
   flex-flow: row;
@@ -185,18 +170,11 @@ footer {
   flex-direction: column;
   justify-content: space-around;
 }
-#posts-container {
-  flex-direction: column;
-  max-width: 50rem;
-}
 #post-title {
-  padding-bottom: 1.25rem;
+padding-top: 2rem;
 }
 #blog-image {
   max-height: 30rem;
-}
-#post-content {
-
 }
 
 /* biography.html */
@@ -205,18 +183,18 @@ footer {
 #newsletter {
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  max-width: 50%;
+  padding-top: 6rem;
 }
 #newsletter-form {
   display: flex;
-  flex-direction: row;
   justify-content: center;
   align-items: center;
 }
 #newsletter-signup {
   display: flex;
-  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 /* books.html */
 #book-listing {
@@ -242,7 +220,7 @@ footer {
 }
 #hypefury-logo {
   max-width: 25rem;
- }
+}
  #hypefury-content {
   max-width: 60rem;
  }
