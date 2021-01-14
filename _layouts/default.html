@@ -1,22 +1,12 @@
-{% include head.html %}
+  {% include head.html %}
 <html>
-  
- 
-  
-  <header>
-    
     {% include navigation.html %}  
-  </header>
-  <body>
-  {{ content }}
+  <content>
+    {{ content }}
+  </content>
   {% if jekyll.environment == 'production' %}
-    {% include analytics.html %}
-    {% endif %}
-
-
-  </body>
-  <footer>
+  {% include analytics.html %}
+  {% endif %}
     {% include footer.html %}
-      </footer>
 </html>
 

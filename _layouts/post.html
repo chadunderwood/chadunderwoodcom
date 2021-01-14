@@ -1,26 +1,24 @@
 {% include head.html %}
 <html>
-  <header>
     {% include navigation.html %}
-  </header>
-  <body> 
-      <div id="blog-container" class="container">
-        <div id="post-title">
-          <h1>{{ page.title }}</h1>
-          <h4>{{ page.subtitle }}</h4>
-          <hr>
-        </div>
-        
-        
-        <div id="post-container">
-          <content>{{ content }}</content>
-        </div>
-      </div>
-    {% if jekyll.environment == 'production' %}
-    {% include analytics.html %}
-    {% endif %}
-    <script id="twitter-wjs" type="text/javascript" async defer src="//platform.twitter.com/widgets.js"></script>
-  </body>
+  
+    <div id="post-title" class="container">
+        <h1>{{ page.title }}</h1>
+        <h4>{{ page.subtitle }}</h4>
+<hr>
+
+<content>
+        {{ content }}
+
+</content>
+</div>
+<footer>{% include footer.html %}</footer>
+
+        {% if jekyll.environment == 'production' %}
+        {% include analytics.html %}
+        {% endif %}
+  <script id="twitter-wjs" type="text/javascript" async defer src="//platform.twitter.com/widgets.js"></script>
+
 
 </html>
-<footer>{% include footer.html %}</footer>
+
